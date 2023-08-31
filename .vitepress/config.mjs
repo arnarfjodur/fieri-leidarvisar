@@ -15,7 +15,7 @@ export default defineConfig({
   lastUpdated: true,
   themeConfig: {
     outlineTitle: 'Á þessari síðu',
-    logo: '/artwork/eom.png',
+    logo: { src: '/artwork/eom.png', width: 24, height: 24 },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
