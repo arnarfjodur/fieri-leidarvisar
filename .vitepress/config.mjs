@@ -18,8 +18,8 @@ export default defineConfig({
     logo: { src: '/artwork/eom.png', width: 24, height: 24 },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Forsíða', link: '/' },
+      { text: 'Efnisyfirlit', link: '/inngangur/efnisyfirlit' }
     ],
 
     sidebar: [
@@ -28,7 +28,8 @@ export default defineConfig({
         items: [
           { text: 'Formáli', link: '/inngangur/formali' },
           { text: 'Efnisyfirlit', link: '/inngangur/efnisyfirlit' },          
-          { text: 'Hvað er nýsköpun?', link: '/inngangur/hvad_er_nyskopun' }
+          { text: 'Hvað er nýsköpun?', link: '/inngangur/hvad_er_nyskopun' },
+          { text: 'Dreifðar byggðir', link: '/inngangur/dreifdar_byggdir' }
         ]
       },
 

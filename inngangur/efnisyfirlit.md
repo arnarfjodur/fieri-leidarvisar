@@ -1,1 +1,6 @@
+---
+outline: deep
+---
+
 # Efnisyfirlit
+
