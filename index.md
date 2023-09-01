@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: Inngangur
-      link: /markdown-examples
+      link: /inngangur/formali
     - theme: alt
-      text: Hefja lestur
-      link: /api-examples
+      text: Efnisyfirlit
+      link: /inngangur/efnisyfirlit
 
 features:
   - title: Inngangur

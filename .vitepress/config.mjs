@@ -24,6 +24,15 @@ export default defineConfig({
 
     sidebar: [
       {
+        text: 'Inngangur',
+        items: [
+          { text: 'Formáli', link: '/inngangur/formali' },
+          { text: 'Efnisyfirlit', link: '/inngangur/efnisyfirlit' },          
+          { text: 'Hvað er nýsköpun?', link: '/inngangur/hvad_er_nyskopun' }
+        ]
+      },
+
+      {
         text: 'Uppskriftir',
         items: [
           { text: 'Sköpunarmiðstöð', link: '/uppskriftir/skopunarmidstod' },
