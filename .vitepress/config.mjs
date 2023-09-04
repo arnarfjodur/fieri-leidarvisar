@@ -22,7 +22,7 @@ export default defineConfig({
   themeConfig: {
     outlineTitle: 'Á þessari síðu',
     footer: {
-      message: 'Þessi vefur er hluti af verkkefninu Að rækta vistkerfi nýsköpunar í dreifðum byggðum, sem stutt er af <a href="https://www.rannis.is/sjodir/rannsoknir/markaaetlun-um-samfelagslegar-askoranir/">Markáætlun um samfélagslegar áskoranir</a>',
+      message: 'Þessi vefur er hluti af verkefninu Að rækta vistkerfi nýsköpunar í dreifðum byggðum, sem stutt er af <a href="https://www.rannis.is/sjodir/rannsoknir/markaaetlun-um-samfelagslegar-askoranir/">Markáætlun um samfélagslegar áskoranir</a>',
       copyright: 'Útgefandi: <a href="https://www.eastofmoon.com/">Austan mána ehf</a>'
     },
     logo: { src: '/artwork/eom.png', width: 24, height: 24 },
