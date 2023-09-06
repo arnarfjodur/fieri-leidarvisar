@@ -109,8 +109,10 @@ Hvort sem nýttir eru samfélagsmiðlar, vefsíða eða hefðbundnari fjölmiðl
 
 Beinast liggur við að mæla fjölda notenda, og hversu lengi og mikið þeir nýta sér miðstöðina. Ef viðburðir eru haldnir er hægt halda utan um fjölda þeirra og fjölda gesta. Eins og sagði áður skiptir auðvitað mest máli hvers konar samfélag myndast og samskipti þeirra á milli. Þetta getur verið erfitt að mæla á megindlegan hátt, en hægt væri að taka viðtöl við notendur eða leggja könnun fyrir þá til að fá fram frásagnir af samstarfi eða innblástri sem átt hefur sér stað innan rýmisins.
 
-::: info
-Setja hérna inn hvernig Blábankinn mældi árangur.
+::: info Úr ársskýrslu skýrslu Blábankans 2019
+![Notendur samvinnurýmis](/photos/blabankinn-maeling.png)
+
+Myndin að ofan sýnir hversu margir og úr hvaða geira notuðu samvinnurými Blábankans árið 2019. Slíkar samantektir geta hjálpað við að meta gildi verkefnisins og sjá hvert það stefnir.
 :::
 
 ## Fjármögnun og rekstur
@@ -136,9 +138,3 @@ Augljósasti tekjumöguleikinn er leiga af skrifborðum og skrifstofurými sem i
 ### Fjármögnun gestgjafa
 
 Í flestum tilfellum þarf því að finna leiðir til að fjármagna starf gestgjafa. Þetta getur komið í formi styrkja frá opinberum aðilum eða öðrum hagsmunaðilum á svæðinu. Einnig er möguleiki að sækja styrki vegna þeirra verkefna sem ráðist er til þess að efla samfélagið, stundum alþjóðleg samstarfsverkefni.
-
-## Dæmi um sköpunarmiðstöðvar
-
-::: warning
-Dæmi hér
-:::

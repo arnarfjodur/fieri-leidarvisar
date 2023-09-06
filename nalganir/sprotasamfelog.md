@@ -22,3 +22,15 @@ Innan ákveðinna stofnana, s.s. landshlutasamtaka, opinberra stofnana s.s. Bygg
 Þetta andrúmsloft, sem oft á tíðum er nauðsynlegt innan þeirra stofnana sem það kemur frá, getur verið hindrun í uppbyggingu frumkvöðlaumhverfis. Nýsköpun þrífst þar sem fólk er óhrætt við að gera tilraunir, í andrúmslofti hispursleysis og þar sem ekki þarf að leita samþykkis fyrir öllu eða fara gegnum langa formlega ferla. Skapandi samfélög þurfa frelsi til að gera eitthvað sem öðrum kann að þykja ansalegt eða fáránlegt, jafnvel hneikslanlegt. Aðgengi að þátttöku þarf að vera án þröskulda, og hlutverk og ábyrgð einstaklinga verður oft flæðandi og dýnamísk.
 
 Það getur verið mjög mikil áskorun fyrir starfsmann sem ætlað er að vera þátttakandi í sprotasamfélagi á láréttum jafningjagrundvelli, að vera jafnframt hluti af lóðréttri og formfastri stofnun. Hættan er að menning og siðir stofnunarinnar taki yfir. Það kann því að vera gott skref að aðskilja einingu sem ætlað er að styðja við nýsköpun til þess að gefa þeim ákveðið frelsi og sjálfstæði. Vinnurými þeirra ætti helst að staðsetja þar sem frumkvöðlar hafa aðsetur, eða a.m.k. í rýmum sem hafa möguleika á að laða til sín frumkvöðla, og síður innan um stjórnsýsluleg skrifstofuveldi.
+
+## Frá Seyðisfirði
+
+### Er einhver uppskrift?
+
+Spurningunni að ofan svaraði Aðalheiður Borgþórsdóttir frá Seyðisfirði þannig, í málstofu undir yfirskriftinni *Hvernig geta skapandi samfélög stutt við nýsköpun í dreifðum byggðum?*
+
+> Að mínu mati þarf fyrst og síðast að laða til sín skapandi ævintýrafólk, virka grasrót! Listafólk, handverskfólk, skipulagsfólk, **tilíallt fólk**, það þarf hugsjónir, hugmyndir, þolinmæði, kjark, þrautsegju, forvitni, aðstöðu, aktívista, örlæti og **gott bakland**.
+
+**Hægt er að horfa á allan fyrirlestur Aðalheiðar hér:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ixrhqjZsldg?si=Qehcf_9CCXTpIvoF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
