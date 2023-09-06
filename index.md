@@ -17,16 +17,16 @@ hero:
 features:
   - title: Inngangur
     details: Hvernig má nýta hana þessa heimild. Helstu hugtök og forsendur útskýrð.
-    link: /api-examples
+    link: /inngangur/formali
     icon: 
       src: /artwork/intro-icon.svg
   - title: Nálganir
-    link: /api-examples
+    link: /nalganir/vistkerfi_nyskopunar
     details: Hugmyndir og nálganir á nýsköpun sem vísa veginn.
     icon: 
       src: /artwork/arrows-icon.svg
   - title: Uppskriftir
-    link: /api-examples
+    link: /uppskriftir/skopunarmidstod
     details: Hagnýtar aðferðir til að styðja við nýsköpun í dreifðum byggðum.
     icon: 
       src: /artwork/recipe-icon.svg
