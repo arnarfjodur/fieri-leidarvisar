@@ -6,9 +6,11 @@ outline: deep
 
 **Í þessari heimild er ætlunin að taka saman hugmyndir, kenningar, frásagnir og skoðanir sem geta nýst þeim sem hafa áhuga á að efla nýsköpun í dreifðum byggðum. Vonast er til að efnið sé hagnýtt fyrir frumkvöðla, fólk sem vinnur í stuðningsumhverfi og stefnumótun tengd nýsköpun sem og alla þá sem hafa áhuga á að vera þátttakendur í vistkerfi nýsköpunar í íslenskum landsbyggðum.**
 
-::: tip Að nota þessa síðu
-Hægt er að lesa þessa síðu frá upphafi til enda í réttri röð, eða hoppa á milli ólíkra kafla eftir áhugasviði. 
-Til vinstri er yfirlit yfir kafla ritsins, og til hægri er hægt að sjá yfirlit yfir efni hvers kafla. 
+**Hægt er að lesa þessa síðu frá upphafi til enda í réttri röð, eða hoppa á milli ólíkra kafla eftir áhugasviði. Til vinstri er yfirlit yfir kafla ritsins, og til hægri er hægt að sjá yfirlit yfir efni hvers kafla.**
+
+
+::: danger Lifandi skjal
+Þessi heimild er í stöðugri vinnslu. Sumir hlutar hennar eru enn hráir. Ábendingar, hugleiðingar eða athugasemdir eru vel þegnar og má senda á arnar@eastofmoon.com
 :::
 
 ### Formúlur fyrir nýsköpun?

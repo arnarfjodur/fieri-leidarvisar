@@ -20,6 +20,16 @@ export default defineConfig({
   },
   lastUpdated: true,
   themeConfig: {
+    docFooter: {
+      prev: 'Fyrri síða',
+      next: 'Næsta síða'
+    },
+    lastUpdated: {
+      text: 'Síðast breytt',
+    },
+    sidebarMenuLabel: 'Efnisyfirlit',
+    returnToTopLabel: 'Aftur upp',
+    darkModeSwitchLabel: 'Útlit',
     outlineTitle: 'Á þessari síðu',
     footer: {
       message: 'Þessi vefur er hluti af verkefninu Að rækta vistkerfi nýsköpunar í dreifðum byggðum, sem stutt er af <a href="https://www.rannis.is/sjodir/rannsoknir/markaaetlun-um-samfelagslegar-askoranir/">Markáætlun um samfélagslegar áskoranir</a>',
@@ -52,16 +62,27 @@ export default defineConfig({
       }
     },
     sidebar: [
+      { text: 'Efnisyfirlit', link: '/inngangur/efnisyfirlit' },
       {
         text: 'Inngangur',
         items: [
-          { text: 'Efnisyfirlit', link: '/inngangur/efnisyfirlit' },
           { text: 'Formáli', link: '/inngangur/formali' },
           { text: 'Hvað er nýsköpun?', link: '/inngangur/hvad_er_nyskopun' },
-          { text: 'Dreifðar byggðir', link: '/inngangur/dreifdar_byggdir' }
+          { text: 'Dreifðar byggðir', link: '/inngangur/dreifdar_byggdir' },
+          { text: 'Ólík úrræði', link: '/inngangur/olik_urraedi' }
+
         ]
       },
-
+      {
+        text: 'Nálganir',
+        items: [
+          { text: 'Vistkerfi nýsköpunar', link: '/nalganir/vistkerfi_nyskopunar' },
+          { text: 'Sprotasamfélög', link: '/nalganir/sprotasamfelog' },
+          { text: 'Að skapa störf eða laða að fólk', link: '/nalganir/ad_skapa_storf_eda_lada_ad_folk' },
+          { text: 'Nýsköpunarstjórnir', link: '/nalganir/nyskopunarstjornir' },
+          { text: 'Störf og staðsetningar', link: '/nalganir/storf_og_stadsetningar'} 
+        ]
+      },
       {
         text: 'Uppskriftir',
         items: [
@@ -69,13 +90,6 @@ export default defineConfig({
           { text: 'Byggðatækni', link: '/uppskriftir/byggdataekni' },
           { text: 'Klúðurkvöld', link: '/uppskriftir/kludurkvold' },
           { text: 'Nýsköpunarhemill', link: '/uppskriftir/nyskopunarhemill' }                    
-        ]
-      },
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       }
     ],

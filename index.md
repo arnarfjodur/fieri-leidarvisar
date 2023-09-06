@@ -44,7 +44,7 @@ features:
   .acknowledements {
         text-align:center;
         padding-top:60px;
-        max-width:350px;
+        max-width:450px;
   }
 
   .sponsor-logo {
@@ -61,7 +61,7 @@ features:
 
   <div class="acknowledements">
         <img src="/artwork/rannis.png" class="sponsor-logo">
-        <div><h3>Þessi vefur er hluti af verkefninu <i>Að rækta vistkerfi nýsköpunar í dreifðum byggðum</i> sem er stutt af <strong><a href="https://www.rannis.is/sjodir/rannsoknir/markaaetlun-um-samfelagslegar-askoranir/">Markáætlun um samfélagslegar áskoranir</a></strong></h3></div>
+        <div><h3>Stutt af <strong><a href="https://www.rannis.is/sjodir/rannsoknir/markaaetlun-um-samfelagslegar-askoranir/">Markáætlun um samfélagslegar áskoranir</a></strong></h3></div>
   </div>
 
 </div>
