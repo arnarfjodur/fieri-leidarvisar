@@ -58,7 +58,6 @@ Dæmi um hvernig „ósýnileg hönd“ markaðarins kemur í kjölfar handa hin
  
 Vágur er bæjarfélag í Suðurey telur nú um 1400 íbúa. Suðurey er afskekktasta eyja Færeyja, en þangað eru ekki komin göng. Dennis Holm, fyrrverandi bæjarstjóri Vágs og núverandi sjávarútvegsráðherra í Færeyjum, lýsti hruni og í kjölfar umbreytingu frá sjónarhóli sveitarfélagsins í fyrirlestri 2022.
  
-
 ::: tip Myndband: Dennis Holm 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U0PB8YNDGOs?si=ekm_cMNJMwvBKW-2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

@@ -19,6 +19,9 @@ export default defineConfig({
     }
   },
   lastUpdated: true,
+  sitemap: {
+    hostname: 'https://leidarvisar.vistkerfi.is'
+  },
   themeConfig: {
     docFooter: {
       prev: 'Fyrri síða',
