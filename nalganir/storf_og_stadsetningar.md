@@ -37,7 +37,7 @@ Aðskilnaður starfa og staðsetningar getur að sama skapi falið í sér ógna
 Aðskilnaður starfa og staðsetningar breytir því á vissan hátt leikreglum samkeppninnar um fólkið, en tryggir á engan hátt hagkvæma niðurstöðu fyrir dreifðar byggðir.
 [Nordregio skýrslan]
 
-„... byggt á auðlindum svæðisins“
+## „... byggt á auðlindum svæðisins“
 
 Algengt er að talað sé um að nýsköpun og atvinnurþróun þurfi að byggja á auðlindum eða hæfni svæðisins. Þetta er að mörgu leyti almenn skynsemi. Hvert svæði getur ekki verið gott í öllu, ákveðin sérhæfing í innviðum og þekkingu sé nauðsynleg. Að byggja á náttúruauðlindum sem séu á svæðinu en ekki annarstaðar sé einnig ákveðin trygging fyrir því að starfsemin færi sig ekki bara hvert sem er. Til að mynda hefur aldrei verið haldinn pistill um atvinnulíf á Vestfjörðum öðruvísi en að orðin „nálægð við fiskimið“ hafi verið nefnd.
 

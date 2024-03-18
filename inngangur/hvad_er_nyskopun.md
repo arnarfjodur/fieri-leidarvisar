@@ -4,7 +4,7 @@ outline: deep
 
 # Hvað er nýsköpun?
 
-**Nýsköpun er nýstárleg leið til að skapa verðmæta. Það sem er nýstárlegt í einu samhengi getur þó verið gamaldsags í öðru. Að sama skapi getur verðmætasköpun fyrir einum verið tap annars. Í nýsköpun felst alltaf óvissa. En óvissa er ekki alltaf það sama og áhætta.**
+**Nýsköpun er nýstárleg leið til að skapa verðmæta. Það sem er nýstárlegt í einu samhengi getur þó verið gamaldsags í öðru. Að sama skapi getur eitthvað sem leiðir til verðmætasköpunar fyrir einum leitt til taps annars. Í nýsköpun felst alltaf óvissa. En óvissa er ekki alltaf það sama og áhætta.**
 
 Gildi nýsköpunar er oftast óumdeilt. Allir helstu stjórnmálaflokkar tala fyrir nýsköpun, og nær öll lönd og svæði hafa á stefnu sinni að auka nýsköpun hjá sér. Þessi óumdeilanleiki getur leitt til þess að grundvallar spurningar um hugtakið koma ekki alltaf fram, eða forsendum þess storkað.
 
@@ -21,7 +21,7 @@ Til eru ýmsar skilgreiningar á þessu hugtaki. Þær þrengstu gera ráð fyri
 
 **"new or changed entity, realizing or redistributing value"**
 
-sem útleggjast mætti sem 
+sem útleggjast mætti á íslensku sem 
 
 **“nýtt eða breytt fyrirbæri, sem raungerir eða endurúthlutar verðmætum”**
 
@@ -30,7 +30,7 @@ Skilgreining Efnahags- og framfarastofnunarinnar (OECD) er svo:
 
 Í skigreiningum um nýsköpun má yfirleitt finna tvö lykilhugtök: **Nýstárlegt** og **verðmæti**. Eftir því hvaða merkingu við leggjum í þau skilgreinast mörkin sem hugtakið nýsköpun nær til. 
 
-ISO staðallinn tiltekur mikilvægar forsendur. Hann bendir á, að "nýstárleiki" og "verðmæti" skilgreinist út frá þeim samtökum sem stunda nýsköpunina og öðrum hagaðilum sem málið varðar. M.ö.o. það sem er nýstárlegt fyrir einum aðila þarf ekki að vera það fyrir öllum öðrum, og það sem er verðmætt fyrir einum er það ekki endilega fyrir öðrum.
+ISO staðallinn tiltekur jafnframt mikilvægar forsendur til hliðar við sína skilgreiningu. Hann bendir á, að "nýstárleiki" og "verðmæti" skilgreinist út frá þeim aðilum sem stunda nýsköpunina og öðrum hagaðilum sem málið varðar. M.ö.o. það sem er nýstárlegt fyrir einum aðila þarf ekki að vera það fyrir öllum öðrum, og það sem er verðmætt fyrir einum er það ekki endilega fyrir öðrum.
 
 ## Nýstárlegt
 **„Ekkert er nýtt undir sólinni“**
@@ -43,7 +43,9 @@ Ein leið er velta fyrir sér nýstárleika, er að velta fyrir sér hversu miki
 
 Á Íslandi eru til að mynda reknir 16 Subway samlokustaðir. Þegar umboðsaðili keðjunnar opnar nýtt útibú á nýjum stað í Reykjavík er hægt að sjá fyrir allar helstu forsendur staðarins: Hvernig hann verði rekinn, hvað þurfi í meginatriðum að gerast til þess að hann beri sig, o.s.frv. Ef einhverjum dytti í hug að opna Subway útibú á miðjum Vatnajökli væri ekki sama upp á teningnum. Að öllum líkindum þyrfti að endurhugsa allar aðferðir við rekstur; aðföng, starfsmannahald og markaðssetningu og því myndi fylgja mikil óvissa.
 
-Vara, aðferð eða ferli getur þótt nýstárlegt á einum stað, en verið vel þekkt á öðrum. Eitthvað getur jafnvel verið vel þekkt hjá einni kynslóð, eða innan ákveðinna geira eða iðnaðar, en þótt mjög nýstárlegt þegar það er yfirfært yfir á önnur svið. Að taka upp gamlar aðferðir sem eru gleymdar nýjum kynslóðum getur jafnvel verið eins konar nýsköpun.
+Vara, aðferð eða ferli getur þótt nýstárlegt á einum stað, en verið vel þekkt á öðrum. Eitthvað getur jafnvel verið vel þekkt hjá einni kynslóð, eða innan ákveðinna geira eða iðnaðar, en þótt mjög nýstárlegt þegar það er yfirfært yfir á önnur svið. Að taka upp gamlar aðferðir sem eru gleymdar nýjum kynslóðum getur jafnvel verið eins konar nýsköpun. Það kann því að hljóma þversagnafullt, en að enduruppgötva gamlar aðferðir getur verið einskonar nýsköpun.
+
+Þetta þarf að hafa sérstaklega í huga þegar við ræðum nýsköpun í dreifðum byggðum, eins og farið verður nánar í síðar.
 
 ## Verðmæti
 **„Eins dauði er annars brauð“**
@@ -51,15 +53,19 @@ Vara, aðferð eða ferli getur þótt nýstárlegt á einum stað, en verið ve
 Seinna lykilorðið er verðmæti, og aftur ræður skilgreining okkar á því hvað við teljum til nýsköpunar og hvað ekki. Ferli getur ekki talist nýsköpun nema í því felist hagnýting til verðmætasköpunar. Leonardo da Vinci hannaði á 15. öld tæki sem var forveri þyrlu, en það tæki kom svo vitað sé aldrei til notkunar, og skapaði því ekki nein verðmæti. Þyrla da Vinci gæti talist til hugmyndar, hönnunar, jafn vel uppfinningar, en ekki nýsköpunar, af þessu orsökum. 
 
 Ef Apple hefði skapað fyrsta eintakið af iPhone og svo stöðvað framleiðsluna og stungið því í skúffu, gætum við talið iPhone til uppfinningar, en ekki nýsköpunar, því síminn skapar engin verðmæti fyrr en hann er tekinn í notkun. Nýsköpun er því alltaf skilgreind út frá einhverskonar hagnýtingu.
-Verðmæti og tekjur
-Skilgreiningin á verðmætum snertir svo aftur grundvallar afstöðu okkar til tilverunnar, eða því sem oft er kallað verðmætamat. Þrengstu skilgreiningar á verðmætum nýsköpunar myndu aðeins horfa til efnahagslegra verðmæta, og þá aðeins þeirra sem mælast í krónum og aurum. Skapi eitthvað nýstárlegt tekjur, þá er það nýsköpun. Skapi að hins vegar engar rekstrarlegar tekjur, sé það þar með ekki verðmætaskapandi og ekki nýsköpun.
+
+
+### Verðmæti og tekjur
+Skilgreiningin á verðmætum snertir svo aftur grundvallar afstöðu okkar til tilverunnar, eða því sem oft er kallað verðmætamat. Þrengstu skilgreiningar á verðmætum nýsköpunar myndu aðeins horfa til efnahagslegra verðmæta, og þá aðeins þeirra sem mælast í krónum og aurum. Skapi eitthvað nýstárlegt tekjur, þá sé það nýsköpun. Skapi það hins vegar engar rekstrarlegar tekjur, sé það þar með ekki verðmætaskapandi og ekki nýsköpun.
 
 En þetta sjónarhorn er takmarkandi. Sum nýsköpun skapar eitthvað sem klárlega teldist til verðmæta án þess að mikið af peningum skiptist um hendur. Á hverjum einasta degi flétta tugir milljóna manna upp fróðleik í alfræðiritinu Wikipediu. Aðgengi að ritinu er verðmæti fyrir þá sem það nota. Tekjur ritsins eru þó ekki miklar miðað við að vera ein af mest sóttu vefsíðum heims. Raunar er hægt að færa rök fyrir því að verðmæti ritsins Wikipedia sé það sem það er vegna þess að það er opið öllum ókeypis, og að efni hennar sé skrifað af ólaunuðum sjálfboðaliðum. Að takmarka verðmætamat Wikipedia við það sem kemur fram í rekstrarreikningi samtakanna sem standa að henni væri því mikil smættun.
-Gróði og tap
+
+### Gróði og tap
 Wikipedia hlýtur því að teljast nýstárleg leið til að skapa verðmæti, þó hún afli ekki mikilla viðskiptalegra tekna. Verðmætasköpun og peningalegar tekjur haldast því ekki endilega í hendur. Að sama skapi verður að hafa í huga, að eins verðmæti geta leitt til annars taps. Verksmiðja sem stundar mengandi iðju getur skapað eigendum sínum mikinn hagnað til skamms tíma, en hafi hún neikvæð ytri áhrif á náttúru eða samfélag er viðbúið að hún skapi öðrum mikið tjón. 
 
-Að sama skapi getur viss rekstur, t.d. sá sem grundvallast á einokun, skapað miklar efnahagslegar tekjur byggðar á sinni stöðu, án þess þó að samsvarandi verðmætasköpun fyrir samfélagið verði til, oft kallað “rentur”. Lyfjafyrirtæki, sem hefur einokunar rétt yfir lífsnauðsynlegu lyfi, getur ákveðið að hækka verð þess upp úr öllu valdi. Við þetta aukast efnahagslegar tekjur fyrirtækisins frá einu ári til hins næsta, en erfitt er að halda því fram að við það hafi aukin verðmæti orðið til, þar sem færri geta nýtt sér lyfið.
-Skapandi eyðilegging
+Að sama skapi getur viss rekstur, t.d. sá sem grundvallast á einokun, skapað miklar efnahagslegar tekjur byggðar á sinni stöðu, án þess þó að samsvarandi verðmætasköpun fyrir samfélagið verði til, oft kallað “rentur”. Lyfjafyrirtæki sem hefur einkarétt á framleiðslu á lífsnauðsynlegu lyfi getur ákveðið að hækka verð þess upp úr öllu valdi. Við þetta aukast efnahagslegar tekjur fyrirtækisins frá einu ári til hins næsta, en erfitt er að halda því fram að við það hafi aukin verðmæti orðið til, þar sem færri geta nýtt sér lyfið.
+
+### Skapandi eyðilegging
 Oft er talað um að nýsköpun sé „truflandi“ (e. disruptive) og að í henni felist „skapandi eyðinlegging“. Með þessu er átt við, að nýsköpun getur skapað verðmæti á einum stað, en eytt þeim á öðrum. Nýsköpun við veiðar og vinnslu í íslenskum sjávarútvegi er dæmi um það. Með fjárfestingu í tæknivæðingu, og samhliða samþjöppun greinarinnar, varð hægt að vinna hvert tonn af fisk með mun færri höndum en áður var. 
 
 Afleiðingar af þessari umbreytingu voru þó ekki jafnar á heildina. Sum byggðarlög töpuðu við þetta efnahagslegum grundvelli sínum, með tilheyrandi tómum bryggjum og húsum, meðan önnur blómstruðu og einstaka aðilar urðu mjög auðugir. 
@@ -75,12 +81,12 @@ Nýsköpun er því alltaf samhliða ógn og tækifæri. Í hnattrænum heimi þ
 
 Með því að bóka herbergi á sama hóteli á Tenerife og í fyrra, getum við aukið líkurnar á að að fá þá upplifun sem við sækjumst eftir. Við getum litið svo á að það að velja nýtt hótel sé áhættusamt, því að í því felist óvissa. En á þversagna fullan hátt, getur viðleitnin til að forðast óvissu verið sú áhættusamasta. Þetta á sérstaklega við í heimi umbreytinga. Það fyrirtæki sem breytir aldrei um vöruframboð, eða leitar leiða til að uppfæra framleiðsluferla í samræmi við nýjustu tækni eða reynir fyrir sér í nýjum mörkuðum, mun fyrr en síðar verða undir í samkeppni við önnur fyrirtæki sem það gera.
 
-Að sama skapi eru fá samfélög sem ekki þurfa að þróa eigin atvinnuhætti og tilvistargrundvöll í takt við umbreytingar sem verða á hinu stóra sviði heimsins. Þau samfélög þar sem ákveðin tilvistargrundvöllur eru mjög rótgróinn geta átt hvað erfiðast með að aðlagast slíkum breytingum. Það getur því verið mjög áhættusamt að forðast alltaf óvissu.
+Að sama skapi eru fá samfélög sem ekki þurfa að þróa eigin atvinnuhætti og tilvistargrundvöll í takt við umbreytingar sem verða á hinu stóra sviði heimsins. Þau samfélög þar sem ákveðin tilvistargrundvöllur er mjög rótgróinn geta átt hvað erfiðast með að aðlagast slíkum breytingum. Það getur því verið mjög áhættusamt að forðast alltaf óvissu. Samfélög sem eru of föst í viðjum vananst geta orðið undirseld einhverskonar leiðaránauð: "Svona hefur þetta alltaf verið" eða "það sem hefur alltaf verið grundvöllur okkar er ..." geta orðið viðkvæði sem kemur í veg fyrir að hægt sé að feta í ný fótspor.
 
 ### Áhætta samfélagsins og áhætta einstaklingsins
-En þó óvissa sé oft leið til að forðast áhættu á samfélagslegu plani heildarinnar, getur hún verið mjög áhættusöm fyrir einstaka frumkvöðul eða fyrirtæki. Í nýsköpun felst alltaf tilraun, og þegar um róttæka nýsköpun er að ræða þar sem nýstárleiki er mikill verða líkurnar á að tilraunin gangi ekki upp að sama skapi miklar. Nýsköpun getur því hæglega verið mjög áhættusöm fyrir þann einstakling eða einingu sem hana stundar. Þegar að róttæk nýsköpun gengur upp, getur hún þó leitt til svo mikilla verðmæta fyrir samfélagið allt að áhættan verður þess virði á heildina litið.
+Þó óvissa sé oft leið til að forðast áhættu heildarinnar, getur hún verið mjög áhættusöm fyrir einstaka frumkvöðul eða fyrirtæki. Í nýsköpun felst alltaf tilraun, og þegar um róttæka nýsköpun er að ræða þar sem nýstárleiki er mikill verða líkurnar á að tilraunin gangi ekki upp að sama skapi miklar. Nýsköpun getur því hæglega verið mjög áhættusöm fyrir þann einstakling eða einingu sem hana stundar. Þegar að róttæk nýsköpun gengur upp, getur hún þó leitt til svo mikilla verðmæta fyrir samfélagið allt að áhættan verður þess virði á heildina litið.
 
-Til þess að takast á við þessa þverstæðu, þykir því oft réttlætanlegt að opinberir aðilar fjármagni nýsköpun, dragi úr áhættu einstaklingsins en ýti jafnframt undir mögulega verðmætasköpun heildarinnar. Yfirleitt er það ríkið sem fjármagnar grunn þekkingarsköpun við rannsóknir og þróun. Grundvallar nýsköpun á tækni er að sama skapi oft framkvæmd eða studd af ríkinu af sömu ástæðu.
+Til þess að takast á við þessa þverstæðu, þykir því oft réttlætanlegt að opinberir aðilar fjármagni nýsköpun, dragi úr áhættu einstaklingsins en ýti jafnframt undir mögulega verðmætasköpun heildarinnar. Yfirleitt er það ríkið sem fjármagnar grunn þekkingarsköpun við rannsóknir og þróun. Grundvallar nýsköpun á tækni er að sama skapi oft framkvæmd eða studd af opinberum aðilum af sömu ástæðu.
 
-## Nýstárlegt, verðmætt, óvíst
-Lykilhugtökin sem fylgja okkur eftir þegar við ræðum nýsköpun í dreifðum byggðum eru því þrjú: Nýstárlegt, verðmætt og óvíst. Við munum sjá hvernig skilningur okkar og möguleg ólík sjónarhorn á þessa eðliseiginleika nýsköpunar getur haft afgerandi áhrif. Með því að dýpka skilning okkar á fyrirbærinu nýsköpun getum við vonandi frekar áttað okkur á mögulega margræðu eðli hennar við ólíkar aðstæður, svo sem milli þéttbýlis og dreifbýlis.
+## Nýstárlegt, verðmætt, óvissa
+Lykilhugtökin sem fylgja okkur eftir þegar við ræðum nýsköpun í dreifðum byggðum eru því þrjú: Nýstárlegt, verðmætt og óvissa. Við munum sjá hvernig skilningur okkar og möguleg ólík sjónarhorn á þessa eðliseiginleika nýsköpunar getur haft afgerandi áhrif. Með því að dýpka skilning okkar á fyrirbærinu nýsköpun getum við vonandi frekar áttað okkur á mögulega margræðu eðli hennar við ólíkar aðstæður, svo sem milli þéttbýlis og dreifbýlis.
