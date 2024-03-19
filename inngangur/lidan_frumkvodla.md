@@ -1,8 +1,8 @@
-# Andleg líðan frumkvöðla úti á landi
+# Líðan frumkvöðla úti á landi
 
 Ferðalag frumkvöðulsins getur tekið á. Glýma einstaklingsins við stórar áskoranir er oft sögð sem rósrauðr saga, oft um einstakaklinga sem voru í minnihluta þeirra sem tókst ætlunarverkið og uppskáru frægð og frama.
 
-En fyrir flesta einstaklinga sem leggja af stað í þá vegferð að hringa af stað eigin hugmynd, verður afraksturinn ekki eins og hjá þeim fáu útvöldu sem mest er fjallað um eftir á. Margir þurfa að gefast upp, og jafnvel hjá þeim sem ná einhverskonar árangri að lokum, þarf oft að ganga í gegnum tímabil óvissu og efasemda um hvort leiðin sé rétt. Hvenær er kominn tími til að gefast upp, segja þetta gott, dæma hugmyndina sem full reynda? Flestir frumkvöðlar þurfa að spyrja sig slíkra spurninga við hverja mislukkaða tilraun. 
+En fyrir flesta einstaklinga sem leggja af stað í þá vegferð að hringa af stað eigin hugmynd, verður afraksturinn ekki eins og hjá þeim fáu útvöldu sem mest er fjallað um eftir á. Margir þurfa að gefast upp, og jafnvel hjá þeim sem ná einhverskonar árangri að lokum, þarf oft að ganga í gegnum tímabil óvissu og efasemda um hvort leiðin sé rétt. Hvenær er kominn tími til að gefast upp, segja þetta gott, dæma hugmyndina sem full reynda? Hverju er ég tilbúin(n) að fórna til að láta á það reyna? Flestir frumkvöðlar þurfa að spyrja sig slíkra spurninga við hverja mislukkaða tilraun. 
 
 Þar sem nýsköpun fæst við eitthvað sem er nýstárlegt, er hægt að gefa sér að það sé ekki alltaf fullur skilningur á þeirri hugmynd sem byggir að baki verkefninu. Ef allir myndu "fatta" hygmyndina og ef hún gengi upp, þá væri enda líklega einhver löngu búinn að framkvæma hana. Þetta skilningsleysi nærumhverfisins, jafnvel í verstu tilfellum baknag og háð, getur tekið á.
 

@@ -30,3 +30,6 @@ Við ættum ekki aðeins að spyrja hversu mikil nýsköpun sé, eða hröð, he
 
 ### Fyrir hvern
 Þessi heimild er ætluð öllum þeim sem hafa áhuga á að styðja við nýsköpun í dreifðum byggðum. Það geta verið frumkvöðlar, sem vilja efla það nærsamfélag sem þeir starfa í. Þá geta starfsmenn hinna ýmsu "battería" sem taka að sér að styðja við nýsköpun, s.s. landshlutasamtaka eða ýmsa miðstöðva og eininga sem taka sér það fyrir hendur. Stjórnmálamenn og fólk sem vinnur að stefnumótun um nýsköpun gætu mögulega fundið hér innblástur, sem og fræðifólk og nemendur sem vilja skilja fyrirbærið betur.
+
+### Hvernig þessi heimild varð til
+Þetta rit er einn af afrakstrinum af verkefefninu *Að rækta vistkerfi nýsköpunar í dreifðum byggðum* sem stutt var af sjóðnum Markáætlun um samfélagslegar áskoranir. 
