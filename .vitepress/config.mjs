@@ -84,7 +84,8 @@ export default defineConfig({
           { text: 'Sprotasamfélög', link: '/nalganir/sprotasamfelog' },
           { text: 'Að skapa störf eða laða að fólk', link: '/nalganir/ad_skapa_storf_eda_lada_ad_folk' },
           { text: 'Nýsköpunarstjórnir', link: '/nalganir/nyskopunarstjornir' },
-          { text: 'Störf og staðsetningar', link: '/nalganir/storf_og_stadsetningar'} 
+          { text: 'Störf og staðsetningar', link: '/nalganir/storf_og_stadsetningar'},
+          { text: 'Snjöll sérhæfing', link: '/nalganir/snjoll_serhaefing' }           
         ]
       },
       {
@@ -93,7 +94,9 @@ export default defineConfig({
           { text: 'Sköpunarmiðstöð', link: '/uppskriftir/skopunarmidstod' },
           { text: 'Byggðatækni', link: '/uppskriftir/byggdataekni' },
           { text: 'Klúðurkvöld', link: '/uppskriftir/kludurkvold' },
-          { text: 'Nýsköpunarhemill', link: '/uppskriftir/nyskopunarhemill' }                    
+          { text: 'Nýsköpunarhemill', link: '/uppskriftir/nyskopunarhemill' },
+          { text: 'Öfugt SVÓT', link: '/uppskriftir/ofugt_svot' }                    
+
         ]
       }
     ],

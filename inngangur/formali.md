@@ -32,4 +32,8 @@ Við ættum ekki aðeins að spyrja hversu mikil nýsköpun sé, eða hröð, he
 Þessi heimild er ætluð öllum þeim sem hafa áhuga á að styðja við nýsköpun í dreifðum byggðum. Það geta verið frumkvöðlar, sem vilja efla það nærsamfélag sem þeir starfa í. Þá geta starfsmenn hinna ýmsu "battería" sem taka að sér að styðja við nýsköpun, s.s. landshlutasamtaka eða ýmsa miðstöðva og eininga sem taka sér það fyrir hendur. Stjórnmálamenn og fólk sem vinnur að stefnumótun um nýsköpun gætu mögulega fundið hér innblástur, sem og fræðifólk og nemendur sem vilja skilja fyrirbærið betur.
 
 ### Hvernig þessi heimild varð til
-Þetta rit er einn af afrakstrinum af verkefefninu *Að rækta vistkerfi nýsköpunar í dreifðum byggðum* sem stutt var af sjóðnum Markáætlun um samfélagslegar áskoranir. 
+![Vistkerfavinnustofa á Rifi](/photos/vistkerfavinnustofa.jpeg)
+
+Þetta rit er einn af afrakstrinum af verkefefninu *Að rækta vistkerfi nýsköpunar í dreifðum byggðum* sem stutt var af sjóðnum Markáætlun um samfélagslegar áskoranir árið 2021. Verkefnið var skapandi ferli sem leiddi saman formlegar rannsóknir og kannanir á vistkerfi nýsköpunar í dreifðum byggðum, sem og samsköpun með frumkvöðlum og þátttakendum í stuðningskerfi nýsköpunar í íslenskum landsbyggðum. 
+
+Um 120 manns víðsvegar af landinu tóku þátt í vistkerfavinnustofum sem nýttar voru til að þróa áfram hagnýtar leiðir til að styðja við nýsköpun í dreifðum byggðum. Þá voru formlegar rannsóknir gerðar og kannanir á stöðu vistkerfis nýsköpunar úti á landi. Allir þessir þættir hafa nýst við að móta þessa heimild. Þó skal árétta að heimildin er ekki bein endurspeglun af niðurstöðum annarra verkþátta verkefnisins. Það sem hér birtist endurspeglar túlkanir og viðhorf ritstjóra þess, Arnars Sigurðssona, og ætti ekki að skilja sem "skýrslu" af niðurstöðum þesss sem á unan hefur farið heldur heldur sjálfstætt innlegg.
