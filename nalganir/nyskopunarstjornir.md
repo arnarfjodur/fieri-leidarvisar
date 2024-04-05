@@ -16,7 +16,11 @@ Samkvæmt þeirri einfölduðu klisju sem dregin var fram að ofan, er hlutverk 
  
 Þegar litið er til uppruna þeirra nýsköpunar og tæknibreytinga sem nú tröllríða samfélaginu, kemur í ljós að hið opinbera hefur jafnan leikið lykilhlutverk í að hrinda þeim af stað. Og þó að flestir hafi upplifað trénaða skrifffinnsku hins opinbera á eigin skinni, eru einnig fjölmörg dæmi þess að opinbert fjármagn sé mun áhættusæknara og framsýnna en einkafjármagnið, jafnvel þó einkafjármagnið fari stundum undir nafninu „áhættufjármagn“.
  
-Frumkvöðlaríkið
+ ::: info Nýsköpunarstjórnin
+![Nýsköpunartorgarar](/photos/nyskopunartogarar.jpg)
+Eftir seinni heimsstyrjöl starfaði svokölluð Nýsköpunarstjórn á Íslandi, sem beitti sér fyrir umbreytingum á íslenskum sjávarútvegi.
+ :::
+### Frumkvöðlaríkið
 Fræðikonan Mariana Mazzucato hefur verið ötul talskona þess að viðurkenna þátt hins opinbera í leiða framfarir á sviði nýsköpunar og tækni. Lengi hefur verið viðurkennt að ríkið styðji við undirstöður nýsköpunar, s.s. með þeirri þekkingarsköpun sem felst í grunn rannsóknum, menntakerfinu o.s.frv. En Mazzucato hefur sýnt fram á að hlutverk ríkisins er mun meira en það.
  
 Mikill hluti þeirrar tækni sem stærstu fyrirtæki Kísildals byggi á hafi verið annaðhvort fjármögnuð, eða beinlínis þróuð af opinberum aðilum. Stofnanir líkt og hin bandaríska DARPA, hvers opinbert markmið er að þróa tækni til varnarmála, var til að mynda fyrir þróun Internetsins, ýmsum framförum í gervigreind, GPS tækninni, myndrænunum tölvuviðmótum og svo mætti lengi telja.
