@@ -18,7 +18,7 @@ Samkvæmt þeirri einfölduðu klisju sem dregin var fram að ofan, er hlutverk 
  
  ::: info Nýsköpunarstjórnin
 ![Nýsköpunartorgarar](/photos/nyskopunartogarar.jpg)
-Eftir seinni heimsstyrjöl starfaði svokölluð Nýsköpunarstjórn á Íslandi, sem beitti sér fyrir umbreytingum á íslenskum sjávarútvegi.
+Eftir seinni heimsstyrjöl starfaði svokölluð Nýsköpunarstjórn á Íslandi, sem beitti sér fyrir umbreytingum á íslenskum sjávarútvegi. Mynd: Morgunblaðið, 18. febrúar 1947.
  :::
 ### Frumkvöðlaríkið
 Fræðikonan Mariana Mazzucato hefur verið ötul talskona þess að viðurkenna þátt hins opinbera í leiða framfarir á sviði nýsköpunar og tækni. Lengi hefur verið viðurkennt að ríkið styðji við undirstöður nýsköpunar, s.s. með þeirri þekkingarsköpun sem felst í grunn rannsóknum, menntakerfinu o.s.frv. En Mazzucato hefur sýnt fram á að hlutverk ríkisins er mun meira en það.
