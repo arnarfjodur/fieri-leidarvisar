@@ -16,7 +16,7 @@ hero:
 
 features:
   - title: Inngangur
-    details: Hvernig má nýta hana þessa heimild. Helstu hugtök og forsendur útskýrð.
+    details: Hugtök, skilgreiningar og forsendur tengdar nýsköpun í dreifðum byggðum.
     link: /inngangur/formali
     icon: 
       src: /artwork/intro-icon.svg

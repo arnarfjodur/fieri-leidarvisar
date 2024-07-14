@@ -72,6 +72,7 @@ export default defineConfig({
           { text: 'Formáli', link: '/inngangur/formali' },
           { text: 'Hvað er nýsköpun?', link: '/inngangur/hvad_er_nyskopun' },
           { text: 'Dreifðar byggðir', link: '/inngangur/dreifdar_byggdir' },
+          { text: 'Mismunandi frumkvöðlar', link: '/inngangur/mismunandi_frumkvodlar' },
           { text: 'Ólík úrræði', link: '/inngangur/olik_urraedi' },
           { text: 'Líðan frumkvöðla', link: '/inngangur/lidan_frumkvodla' }
 
