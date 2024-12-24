@@ -12,25 +12,29 @@ Nýsköpun er oft talin fela í sér þversögnina um skapandi eyðileggingu. N�
  
 Íslensk sjávarþorp spruttu upp á fyrri hluta 20. aldar í kjölfar nýsköpunar í sjávarútvegi. Vélvæðing fiskiskipaflotans og fjárfestingar í fiskvinnslu sköpuðu ný störf í þorpunum, sem kölluðu á fólk að flytja úr sveitunum.
  
-En að sama skapi getur nýsköpun orðið til þess að fækka störfum. Með nýsköpun í bæði veiðum og vinnslu þarf sífellt færri hendur til að framleiða hvert tonn af fiski. Á árinum .......  Þar sem fiskurinn í sjónum er takmörkuð auðlind, veldur það því einfaldlega að færri vinna við sama verk.
+En að sama skapi getur nýsköpun orðið til þess að fækka störfum. Með nýsköpun í bæði veiðum og vinnslu þarf sífellt færri hendur til að framleiða hvert tonn af fiski. Þar sem fiskurinn í sjónum er takmörkuð auðlind, veldur það því einfaldlega að færri vinna við sama verk.
  
 Með nýsköpun í tækni verður öll vinna stöðugt sjálfvirkari og fækkar þannig störfum. Hingað til hefur mannkyninu yfirleitt tekist að láta sér detta í hug ný verkefni og störf kringum þau samhliða því að gömlum fækkar. En nýju störfin verða ekki endilega til á sömu stöðum og hin gömlu.
  
-Sú hugmynd að framundan sé meiriháttar sjálfvirknivæðing í með tilkomu gervigreindar og annarrar tækni er oft kennd við 4. iðnbyltingu. Samkvæmt spá er gert ráð fyrir að mun fleiri störf muni tapast í dreifðum byggðum vegna þessarar þróunar en í þéttbýli.
+Sú hugmynd að framundan sé meiriháttar sjálfvirknivæðing í með tilkomu gervigreindar og annarrar tækni er oft kennd við 4. iðnbyltingu. Margar spár gera ráð fyrir að mun fleiri störf muni tapast í dreifðum byggðum vegna þessarar þróunar en í þéttbýli.
  
 Hvort sem við tökum svo djúpt í árina að telja að framundan sé ný iðnbylting, eða áframhald á svipaðri þróun, þá verður að teljast líklegt að tæknin muni halda áfram að taka við af mannshönd og huga við vinnu. Þau samfélög sem vilji lifa af þurfa að finna leiðir til þess að geta nýtt sér hana til eigin hagsbóta, í stað þess að reyna að keppa við hana.
  
 ## Fólkið skapi störfin, ekki öfugt
-Þar sem náttúruleg skilyrði eru megin áhrifavaldur efnahagslegrar velgengni er viðbúið að slík skilyrði útskýri hvar fólki fjölgar eða fækkar. Í landbúnaðarsamfélögum má ætla að jarðkostir ráði miklu um hvar fólk sest að.
- 
-Verstöðvar, og síðar sjávarþorp, mynduðust þar sem stutt var í gjöful fiskimið. En með aukinni vélvæðingu, samgöngu- og samskipta bótum minnkaði vægi náttúrulegra aðstæðna. Þar sem fjárfest var í vélum: Frystihúsum, sláturhúsum, togurum, höfnum og vegasamgöngum, þar drífur að fólk. Í iðnvæddu samfélagi eru það atvinnutækin, vélarnar, sem skilja að þau samfélög sem blómgast og þau sem hnigna.
+Þar sem náttúruleg skilyrði eru megin áhrifavaldur efnahagslegrar velgengni er viðbúið að slík skilyrði útskýri hvar fólki fjölgar eða fækkar. Í landbúnaðarsamfélögum má ætla að jarðkostir ráði miklu um hvar fólk sest að. Verstöðvar, og síðar sjávarþorp, mynduðust þar sem stutt var í gjöful fiskimið. 
+
+En með aukinni vélvæðingu, samgöngu- og samskipta bótum minnkaði vægi náttúrulegra aðstæðna. Þar sem fjárfest var í vélum: Frystihúsum, sláturhúsum, togurum, höfnum og vegasamgöngum, þar drífur að fólk. Í iðnvæddu samfélagi eru það atvinnutækin, vélarnar, sem skilja að þau samfélög sem blómgast og þau sem hnigna.
  
 Öllu máli skipti því fyrir samfélög að verða valin til slíkra fjárfestinga. Ekki er óalgengt að stjórnmálamenn hvers svæðis gangi eftir fjárfestum með grasið í skónum og bjóði þeim gull og græna skóga kjósi þeir að byggja verksmiðju sína í þeirra heimabyggð.
  
 Margir telja þó, að á þessu sé að verða mikilvæg breyting. Hugtök eins og „upplýsingasamfélagið“, „þekkingarstörf“ o.s.frv. vísar til þess að í auknu mæli sé það sem skilji að feig og ófeig samfélög sé ekki fjárfesting í dauðum hlutum líkt og verksmiðjum eða efnislegum innviðum. Það sem máli sé þekking, sköpunargáfa og hæfni fólksins sjálfs á staðnum: „mannauðurinn“.
  
-Bandaríski borgarfræðingurinn Richard Florida hefur haft mikil áhrif á þessa umræðu með kenningum sínum um „ris hinnar skapandi stéttar“. [summary Florida]
- 
+Bandaríski borgarfræðingurinn Richard Florida hefur haft mikil áhrif á þessa umræðu með kenningum sínum um „ris hinnar skapandi stéttar“. En hver er þessi skapandi stétt? Florida lýsir því svo:
+
+> Ef þú ert vísindamaður eða verkfræðingur, arkítekt eða hönnuður, rithöfundur, listamaður eða tónlistarmaður, eða ef sköpunargáfa leikur lykil hlutverk í starfi þínu eða starfsemi, menntun, heilsugæsla, lögfræði, eða annarskonar starfsgrein, þá ertu hluti af henni.
+
+[Bein tilvitnun]
+
 Með sýn Florida snýst dæmið við. Samfélög laði til sín skapandi fólk, sem síðan verði grundvöllur fyrir atvinnusköpun, ekki öfugt. Verkefni mismunandi landsvæða sé þess vegna að búa til aðstæður hjá sér sem laði að fólk.
  
 ## Kamiyama í Japan
