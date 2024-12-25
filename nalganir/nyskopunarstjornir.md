@@ -8,7 +8,7 @@ outline: deep
  
 Á tímabili var orðið nýsköpun nær aðeins tengd við einkageirann. Á hinum frjálsa markaði leitist fyrirtæki í samkeppni við hvort annað við að finna nýjar leiðir til að gera meira fyrir minni tilkostnað, og noti þannig nýsköpun til að finna upp nýjar aðferðir og ferla.
  
-Byltingarkenndar framfarir í tækni og nýsköpun verði þegar dáðadrengir (þiggjendur fjárfestingafjármagns eru fyrst og fremst karlmenn) fái snjallar hugmyndir og fylgi þeim eftir með dugnaði og þori. Til þess leitist þeir eftir fjármagni frá framtaksfjárfestum sem þori að veðja á nýjar hugmyndir.
+Byltingarkenndar framfarir í tækni og nýsköpun verði þegar dáðadrengir fái snjallar hugmyndir og fylgi þeim eftir með dugnaði og þori. Til þess leitist þeir eftir fjármagni frá framtaksfjárfestum sem þori að veðja á nýjar hugmyndir.
  
 Samkvæmt þeirri einfölduðu klisju sem dregin var fram að ofan, er hlutverk hins opinbera lítið. Helst eigi ríkið að passa upp á að vera ekki fyrir. Misvitrir stjórnmálamenn sem ýmist séu drifnir áfram af tækifærismennsku eða hugmyndafræðilegum löftköstulum eigi ekki að „vera með puttana“ í nýsköpun. Þá séu opinberir starfsmenn ekki líklegir til afreka í nýsköpun. Þeir séu óskilvirkir og hugsi ekki út fyrir boxið. Séu strengjabrúður ósveigjanlegs skrifræðis sem gefi lítið svigrúm til tilrauna eða nýrra hugmynda.
  
@@ -21,13 +21,13 @@ Samkvæmt þeirri einfölduðu klisju sem dregin var fram að ofan, er hlutverk 
 Eftir seinni heimsstyrjöl starfaði svokölluð Nýsköpunarstjórn á Íslandi, sem beitti sér fyrir umbreytingum á íslenskum sjávarútvegi. Mynd: Morgunblaðið, 18. febrúar 1947.
  :::
 ### Frumkvöðlaríkið
-Fræðikonan Mariana Mazzucato hefur verið ötul talskona þess að viðurkenna þátt hins opinbera í leiða framfarir á sviði nýsköpunar og tækni. Lengi hefur verið viðurkennt að ríkið styðji við undirstöður nýsköpunar, s.s. með þeirri þekkingarsköpun sem felst í grunn rannsóknum, menntakerfinu o.s.frv. En Mazzucato hefur sýnt fram á að hlutverk ríkisins er mun meira en það.
+Fræðikonan Mariana Mazzucato hefur verið ötul talskona þess að viðurkenna þátt hins opinbera í leiða framfarir á sviði nýsköpunar og tækni. Lengi hefur verið viðurkennt að ríkið styðji við undirstöður nýsköpunar, s.s. með þeirri þekkingarsköpun sem felst í grunn rannsóknum, menntakerfinu o.s.frv. En Mazzucato hefur sýnt fram á að hlutverk ríkisins er mun virkara en það, og talar hún um hið opinbera sem frumkvöðul í þekktustu bók hennar *The Entrepreneurial State*.
  
 Mikill hluti þeirrar tækni sem stærstu fyrirtæki Kísildals byggi á hafi verið annaðhvort fjármögnuð, eða beinlínis þróuð af opinberum aðilum. Stofnanir líkt og hin bandaríska DARPA, hvers opinbert markmið er að þróa tækni til varnarmála, var til að mynda fyrir þróun Internetsins, ýmsum framförum í gervigreind, GPS tækninni, myndrænunum tölvuviðmótum og svo mætti lengi telja.
  
 Hlutverk einkafyrirtækja í tæknigeiranum líkt og Apple og Google hafi ekki alltaf verið að þróa grundvallar tæknina sem þau selja, heldur að koma henni á markað og finna leiðir til að hafa af henni tekjur. Ekki skyldi gera lítið úr því, en engu að síður falli það oft í skaut einkafyrirtækja að fleyta rjómann af tækni sem hafi verið þróuð með opinberu fjármagni.
  
-Fjárfestingafjármagn til nýsköpunarfyrirtækja er oft kallað „áhættufjármagn“. Takmörk slíks framtaksfjármagns samkvæmt Mazzucato sé þó að það sé oft á tíðum of áhættufælið til þess að fjármagna grundvallar nýsköpun. Þó framtakssjóðir búist ekki við því að nema lítill hluti fjárfestinga sinna séu arðbærar, þurfi einstaka fjárfestingar yfirleitt að sýna fram á möguleika á arði innan 5 ára. Nýsköpunin sem fjárfest í þarf svo ekki aðeins að skapa verðmæti, heldur verður að vera hægt að snúa þessum verðmætum upp í nægjanlegar tekjur til að réttlæta fjárfestinguna.
+Fjárfestingafjármagn til nýsköpunarfyrirtækja er oft kallað „áhættufjármagn“. Takmörk slíks framtaksfjármagns samkvæmt Mazzucato sé þó að það sé oft á tíðum of áhættufælið til þess að fjármagna grundvallar nýsköpun. Þó framtakssjóðir búist ekki við því að nema lítill hluti fjárfestinga sinna séu arðbærar, þurfi einstaka fjárfestingar yfirleitt að sýna fram á möguleika á arði innan um 5 ára. Nýsköpunin sem fjárfest í þarf svo ekki aðeins að skapa verðmæti, heldur verður að vera hægt að snúa þessum verðmætum upp í nægjanlegar tekjur til að réttlæta fjárfestinguna, sem er ekki endilega að sama líkt og rætt hefur verið í fyrri köflum.
  
 Ólíkt framtakssjóðum úr einkageiranum getur ríkið leyft sér að vera mun þolinmóðari fjárfestir og þar með áhættusæknari. Krafan um skammtíma fjárhagslegan ábata er ekki sá sami. Þegar tækni líkt og internetið, gervigreind og sjónræn viðmót var þróuð óraði fáa fyrir því að af því myndi spretta iðnaður sem teldi ein stærstu fyrirtæki heims síðar. Þvert á þá algengu hugmynd að ríkið sé að keppa við frjálsan markað með umsvifum sínum er það oft einmitt hlutverk ríkisins að búa til nýja markaði með frumkvöðlastarfi sínu.
 
@@ -36,25 +36,31 @@ Fjárfestingafjármagn til nýsköpunarfyrirtækja er oft kallað „áhættufj�
 
 Fyrirlestur haldinn á Nýsköpunarvikunni 2022 um leiðangursmiðaða nýsköpun kenningar hagfræðingsins Mariönu Mazzucato.
 ::: 
-## Hnyggnandi byggðir
+## Hnyggnandi byggðir og seigla
  
-Í byggðum sem þola hafa mátt efnahagslega hnignun er spurningum um ólíkt hlutverk opinberrar fjárfestingar og einkafjármagns oft velt upp. Jafnvel blómlegustu samfélög sem þrífast og dafna við ákveðin skilyrði, ná oft á tíðum ekki að laga sig að einhverjum tilteknum efnahagslegum og samfélagslegum breytingum.
+Í byggðum sem þola hafa mátt efnahagslega hnignun er spurningum um ólíkt hlutverk opinberrar fjárfestingar og einkafjármagns oft velt upp. Jafnvel blómlegustu samfélög sem þrífast og dafna við ákveðin skilyrði, ná oft á tíðum ekki að laga sig að stórfeldum efnahagslegum og samfélagslegum breytingum.
  
 Þegar samfélög geta staðið af sér slíkar breytingar, er talað um að þau hafi seyglu eða aðlögunarhæfni. Þau annaðhvort finna leið til þess að laga sig að breytingunum og jafnvel færa sér þær í nyt, eða finna sér annan tilveru grundvöll.
  
 Takist þetta ekki, verður oft til neikvæður spírall sem samfélög sogast eftir. Eitt af öðru hverfa fyrirtæki, stofnanir, loks fjölskyldur og fjármagn. Með hverri einingu sem hverfur eykst þrýstingur á hinar. Erfiðara verður að halda uppi þjónustu, eignir lækka í verði og svartsýni tekur við.
   
-Við slíkar aðstæður eru dæmi þess að einkafjármagn komi til og fjárfesti, sérstaklega ef um er að ræða sérstök tækifæri sem verða ljós. Hins vegar er einnig margt sem heldur aftur af því, og torveldar að einkafjármagn leiki lykilhlutverk. Meðal þess er:
+Við slíkar aðstæður eru vissulega dæmi þess að einkafjármagn komi til og fjárfesti, sérstaklega ef um er að ræða sérstök tækifæri sem verða ljós. Hins vegar er einnig margt sem heldur aftur af því, og torveldar að einkafjármagn leiki lykilhlutverk. Meðal þess er:
  
-1. 	Samfélagið allt er undir álagi. Frá þverrandi þjónustu til hrakandi innviða og félagslegra þátta. Svo að ein eining megi þrífast þurfa margar stoðir að vera til staðar. Fyrirtæki sem ætlar sér að ráðast í ákveðna starfsemi þarf yfirleitt á annarri þjónustu að halda. Til þess að ráða til sín starfsfólk þarf að vera til staðar félagsleg þjónusta fyrir það, s.s. góðir skólar, tómstundir, félagslíf. Þá þurfa mörg fyrirtæki á ákveðnum innviðum s.s. fjarskiptum, orku, samgöngum o.s.frv. sem hætt er við að dragist aftur úr öðrum stöðum.
+**1. Samfélagið allt er undir álagi**
+
+Frá þverrandi þjónustu til hrakandi innviða og félagslegra þátta. Svo að ein eining megi þrífast þurfa margar stoðir að vera til staðar. Fyrirtæki sem ætlar sér að ráðast í ákveðna starfsemi þarf yfirleitt á annarri þjónustu að halda. Til þess að ráða til sín starfsfólk þarf að vera til staðar félagsleg þjónusta fyrir það, s.s. góðir skólar, tómstundir, félagslíf. Þá þurfa mörg fyrirtæki á ákveðnum innviðum s.s. fjarskiptum, orku, samgöngum o.s.frv. sem hætt er við að dragist aftur úr öðrum stöðum.
 
 Þegar einkafjármagn metur fjárfestingakosti, er það yfirleitt á grunni einnar rekstrareiningar. Fjármagni er veitt í eitt hlutafélag, hvers efnahagsreikningur þarf að skila vissri ávöxtun í tæka tíð. Viðskiptaáætlunin þarf að sýna fram á þetta, en er í raun ekki síst háð sameiginlegum þáttum alls samfélagsins, ekki síður en sjálfum rekstri einingarinnar.
  
 Til þess að hver einkafjárfesting fyrir sig geti orðið arðbær þarf því oft að treysta sameiginlegan grundvöll alls samfélagsins, og slíkar fjárfestingar er bæði ólíklegt og óheppilegt að einkaaðilar standi fyrir. Þessi ytri áhrif eru dæmi um það sem hagfræðin myndi kalla markaðsbrest.
  
-2. 	Þegar samfélög hafa byggt efnahagslegan grundvöll sinn ákveðnum forsendum sem svo hverfa, getur tekið langan tíma að feta nýja braut. Vegna path dependence þarf oft að glíma við . Líkt og þegar um róttæka nýsköpun á sér stað getur ávinningur vissulega verið mikill. Hins vegar þarf að stíga mörg feilspor áður en ný slóð verður til. Vegna þess að þær umbreytingar sem eiga sér stað eru jafnan svo ólíkar þeim veruleika sem fyrir er, er árangur háður mikilli óvissu. Slík óvissa passar illa inn í Excel-skjal og verður því mjög erfitt að meta fjárfestingakosti. Sá tími sem vænta má ávinnings af fjárfestingunni er einnig líklega lengri en ávöxtunarkrafa einkafjármagns ætlast til.
+**2. Leiðaránauð**
+
+Þegar samfélög hafa byggt efnahagslegan grundvöll sinn ákveðnum forsendum sem svo hverfa, getur tekið langan tíma að feta nýja braut. Vegna leiðaðánauðar (e. path dependence) þarf oft að glíma við djúpstæðar breytingar á innviðum, hugsunarhætti, hæfni og þekkingu. Líkt og þegar um róttæka nýsköpun á sér stað getur ávinningur vissulega verið mikill. Hins vegar þarf að stíga mörg feilspor áður en ný slóð verður til. Vegna þess að þær umbreytingar sem eiga sér stað eru jafnan svo ólíkar þeim veruleika sem fyrir er, er árangur háður mikilli óvissu. Slík óvissa passar illa inn í Excel-skjal og verður því mjög erfitt að meta fjárfestingakosti. Sá tími sem vænta má ávinnings af fjárfestingunni er einnig líklega lengri en ávöxtunarkrafa einkafjármagns ætlast til.
  
-3. 	Við atgervisflótta hverfa fjárfestar jafnframt á braut. Fyrirtæki, fjármagnseigendur og fjármálastofnanir fara annað. Frumkvöðlar og einstaklingar með tengsl og félagslega stöðu hætta að búa á staðnum. Einkafjármagn vinnur gjarnan á grundvelli óformlegra persónulegra tengsla. Fjárfestar og fjármálastofnanir eru viljugri til að fjárfesta í eigin nærumhverfi. [3] Þetta gerir enn ólíklegra að einkafjármagn komi til þegar efnahagsleg hnignun á sér stað.
+**3. Atgervisflótti**
+
+Við atgervisflótta hverfa fjárfestar jafnframt á braut. Fyrirtæki, fjármagnseigendur og fjármálastofnanir fara annað. Frumkvöðlar og einstaklingar með tengsl og félagslega stöðu hætta að búa á staðnum. Einkafjármagn vinnur gjarnan á grundvelli óformlegra persónulegra tengsla. Fjárfestar og fjármálastofnanir eru viljugri til að fjárfesta í eigin nærumhverfi. [3] Þetta gerir enn ólíklegra að einkafjármagn komi til þegar efnahagsleg hnignun á sér stað.
  
 ## Vágur í Færeyjum
  

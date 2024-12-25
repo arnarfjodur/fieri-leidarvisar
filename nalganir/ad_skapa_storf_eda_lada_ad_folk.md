@@ -31,15 +31,14 @@ Margir telja þó, að á þessu sé að verða mikilvæg breyting. Hugtök eins
  
 Bandaríski borgarfræðingurinn Richard Florida hefur haft mikil áhrif á þessa umræðu með kenningum sínum um „ris hinnar skapandi stéttar“. En hver er þessi skapandi stétt? Florida lýsir því svo:
 
-> Ef þú ert vísindamaður eða verkfræðingur, arkítekt eða hönnuður, rithöfundur, listamaður eða tónlistarmaður, eða ef sköpunargáfa leikur lykil hlutverk í starfi þínu eða starfsemi, menntun, heilsugæsla, lögfræði, eða annarskonar starfsgrein, þá ertu hluti af henni.
+> Ef þú ert vísindamaður eða verkfræðingur, arkítekt eða hönnuður, rithöfundur, listamaður eða tónlistarmaður, eða ef sköpunargáfa leikur lykil hlutverk í starfi þínu eða starfsemi, menntun, heilsugæsla, lögfræði, eða annarskonar starfsgrein, þá ertu hluti af henni^[Florida, Richard. The Rise of the Creative Class . Basic Books. Kindle Edition.].
 
-[Bein tilvitnun]
-
-Með sýn Florida snýst dæmið við. Samfélög laði til sín skapandi fólk, sem síðan verði grundvöllur fyrir atvinnusköpun, ekki öfugt. Verkefni mismunandi landsvæða sé þess vegna að búa til aðstæður hjá sér sem laði að fólk.
+Með sýn Florida snýst dæmið við. Megin slagkraftur verðmætasköpunar eru ekki náttúruauðlindir, og heldur ekki fjárfesting í iðnaði, heldur mannauður. Samfélög laði til sín skapandi fólk, sem síðan verði grundvöllur fyrir atvinnusköpun, ekki öfugt. Verkefni mismunandi landsvæða sé þess vegna að búa til aðstæður hjá sér sem laði að fólk.
  
 ## Kamiyama í Japan
  
-Líkt og víða annars staðar hafa stórborgir í Japan vaxið, meðan útlit er fyrir að margir smærri staðir muni þurrkast út á næstu áratugum. Eitt áhugavert dæmi stendur upp úr í Japan um andsvar við þessari þróun: Bærinn Kamiyama.
+Líkt og víða annars staðar hafa stórborgir í Japan vaxið, meðan útlit er fyrir að margir smærri staðir muni þurrkast út á næstu áratugum. Eitt áhugavert dæmi stendur upp úr í Japan um andsvar við þessari þróun: Bærinn Kamiyama^[[Kamiyama’s Success in Creative Depopulation
+](https://field-journal.com/issue-8/kamiyamas-success-in-creative-depopulation/)].
  
 Kamiyama byggði grundvöll sinn á skógrækt, en þegar sá iðnaður tók að dala fór að halla undan fæti. Nú til dags búa um 5.000 manns í bænum, sem er aðeins þriðjungur þess sem var í kringum 1955, auk þess sem hlutfall ungs fólks hefur lækkað. Samkvæmt opinberum viðmiðum var Kaymiyama einn af þeim bæum sem áttu á hættu að hverfa á næstu áratugum.
  
@@ -64,3 +63,19 @@ Sú fólksfækkun sem átt hefur sér stað í Kamiyama frá miðbiki síðustu 
 Margt í sögunni frá Kamiyama kallast á við hugmyndir þeirra Florida og Feld. Kamiyama lokkaði til sín atvinnustarfsemi með því að gerast spennandi og áhugaverður staður fyrir skapandi fólk, fremur en að bjóða mannaflsfrekum iðnaði bittlinga til þess að „skapa störf“ og vonast til þess að fólkið fylgdi á eftir.
  
 Þá var umbreytingin leidd að innan, af heimafólki sem átti hagsmuna að gæta á staðnum til langs tíma. Hún fékk að eiga sér stað á eigin forsendum, þannig að eitt leiddi af öðru. Ekki var reynt að handstýra henni að ofan eða breyta staðnum á einni nóttu.
+
+### Skapandi fólksfækkun á N4
+
+Að neðan má sjá tvo þætti sem gerðir voru af sjónvarpsstöðinni N4 um *Skapandi fólksfjölgun*.
+
+::: tip Þáttur 1
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QTT6bmXWncY?si=0Nl2o46ZeFu1J9f-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+:::
+
+::: tip Þáttur 2:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uz1M5iKetKE?si=nE7-yipJCM4MgOdV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+:::

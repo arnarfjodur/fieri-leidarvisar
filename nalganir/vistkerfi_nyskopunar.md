@@ -15,10 +15,12 @@ Frægt líkan sem reynir að svara þessum spurningum á uppruna sinn frá 10. �
 :::
 
  
-Þriggja sviða líkanið gerir ráð fyrir að nýsköpun sé afleiðing af aðstæðum sem þurfi að vera til staðar, ekki ferli sem gæti átt sér stað í einangrun. Þetta líkan boðar ekki endilega góðar fréttir fyrir dreifðar byggðir, þar sem bæði stofnanir hins opinbera og háskólasamfélagið er 
+Þriggja sviða líkanið gerir ráð fyrir að nýsköpun sé afleiðing af aðstæðum sem þurfi að vera til staðar, ekki ferli sem gæti átt sér stað í einangrun. Þetta líkan boðar ekki endilega góðar fréttir fyrir dreifðar byggðir, þar sem bæði stofnanir hins opinbera og háskólasamfélagið á til að þjappast saman á stærstu stöðum hvers land. 
 
 Eins og títt er um líkön hafa svo kennismiður bætt við nýjum sviðum sem teljast mikilvæg fyrir nýsköpun til þess að gera það nákvæmara en jafnframt flóknara.
  
+## Líkt og kerfi náttúrunar?
+
 Í dag er algengt að tala um þær aðstæður sem nýsköpun sé sprottin af sem „vistkerfi“. Líkt og á við um náttúruleg vistkerfi eins og í sjónum fyrir utan Ísland, getum við ef til vill skilið verkan þess megin dráttum, en munum aldrei geta spáð nákvæmlega um þróun þess. Að sama skapi getur verið varasamt að ætla sér að gera stórtækar og hraðar breytingar á vistkerfum, það getur haft ófyrirséðar og alvarlegar afleiðingar eins og umgengni mannsins við náttúruna hefur sýnt.
 
 Oft eru þær aðstæður sem leiða til nýsköpunar myndhverfðar sem vistkerfi nýsköpunar. Vistkerfi náttúrunnar eru staðbundin kerfi þar sem dýr, plöntur, veðurfar, landslag hafa áhrif á hvort annað. Vistkerfi eru margslungin. Breyting á einum þætti þess hefur gjarnan áhrif á alla aðra, og þau verða fyrir áhrifum af bæði ytri og innri þróun.
