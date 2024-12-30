@@ -4,6 +4,11 @@ outline: deep
 
 # Mismunandi frumkvöðlar
 
+
+> “Ég tel mig nú ekki vera einhvern sérstakan „frumkvöðul“
+
+— Frumkvöðull á Austurlandi
+
 **Hugtakið nýsköpun nær til mjög breiðs svið mannlegrar iðju. Af því leiðir, að þeir sem stunda nýsköpun gera það á ólíkum forsendum. Oft á tíðum er það sem aðgreinir ólika hópa frumkvöðla einmitt mismunandi skilningur á hugtökunum verðmæti, nýstárleiki og óvissa. Ef við skiljum ekki ólík takmörk, aðstæður, verðmæta- og gildismat frumkvöðla, er hætt á því að stuðningur okkur til margra geti haft takmarkað gildi, og jafnvel verið afvegaleiðandi og ruglandi í sumum tilfellum.**
 
 Þegar reynt hefur verið að lýsa ólíkum tegundum frumkvöðlastarfsemi, ber þessi hugtök oft á góma:

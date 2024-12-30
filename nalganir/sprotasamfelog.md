@@ -5,6 +5,14 @@ outline: deep
 # Sprotasamfélög
 
 
+> Ég er að leita að fólki í mínu nærumhverfi sem komplimentar mig sem að hefur svona skörun við mig. Það mætti vera einhver vettvangur þar sem að ég gæti séð á svona auðveldan hátt hverjir eru að vinna í einhverjum hlutum, hverjir eru að vinna í hlutum sem tengjast í mínu tilfelli sjó ...
+
+> Eitthvað svona platform þar sem þú gætir á litlum tíma vitað soldið hvað er, ég held að það sem skiptir gríðarlegu máli er samstarf.
+
+— Frumkvöðull á Vesturlandi
+
+## "Startup communities"
+
 Bandaríski fjárfestirinn og Íslandsvinurinn Brad Feld hefur mikið fjallað um nýsköpunarvistkerfi og frumkvöðlasamfélög. Sjálfur er hann þekktur fyrir þáttöku sína í nýsköpunarsenunni í borginni Boulder í Colorado fylki. Boulder telur aðeins um 100 þúsund manns, en hefur vakið athygli fyrir óvenju gróskumikið nýsköpunarlíf.
 
 Feld lýsir nýsköpunarvistkerfum sem margslungnu og sjálfaðlaðandi kerfi. Alls ekki eigi að reyna að handstýra þeim að ofan, heldur leyfa frumkvöðlum sjálfum að leiða veginn. Í bókinni The Startup Community Way, sem Feld skrifar ásamt Ian Hathaway er harmað að:
@@ -22,6 +30,15 @@ Innan ákveðinna stofnana, s.s. landshlutasamtaka, opinberra stofnana s.s. Bygg
 Þetta andrúmsloft, sem oft á tíðum er nauðsynlegt innan þeirra stofnana sem það kemur frá, getur verið hindrun í uppbyggingu frumkvöðlaumhverfis. Nýsköpun þrífst þar sem fólk er óhrætt við að gera tilraunir, í andrúmslofti hispursleysis og þar sem ekki þarf að leita samþykkis fyrir öllu eða fara gegnum langa formlega ferla. Skapandi samfélög þurfa frelsi til að gera eitthvað sem öðrum kann að þykja ansalegt eða fáránlegt, jafnvel hneikslanlegt. Aðgengi að þátttöku þarf að vera án þröskulda, og hlutverk og ábyrgð einstaklinga verður oft flæðandi og dýnamísk.
 
 Það getur verið mjög mikil áskorun fyrir starfsmann sem ætlað er að vera þátttakandi í sprotasamfélagi á láréttum jafningjagrundvelli, að vera jafnframt hluti af lóðréttri og formfastri stofnun. Hættan er að menning og siðir stofnunarinnar taki yfir. Það kann því að vera gott skref að aðskilja einingu sem ætlað er að styðja við nýsköpun til þess að gefa þeim ákveðið frelsi og sjálfstæði. Vinnurými þeirra ætti helst að staðsetja þar sem frumkvöðlar hafa aðsetur, eða a.m.k. í rýmum sem hafa möguleika á að laða til sín frumkvöðla, og síður innan um stjórnsýsluleg skrifstofuveldi.
+
+### Reynsla af því að spóla á gólfinu
+
+> Varðandi atvinnuráðgjafa og þess háttar. Mér líður betur með að hitta einhvern sem hefur reynsluna. Maður fær aðeins meira traust á þeim. Reynslu úr frumkvöðlaumhverfinu, sem hefur aðeins fengið að spóla á gólfinu. 
+
+> Atvinnuráðgjafarnir mega ekki vera fastir í boxi. Eins og í skýrsluskrifunum. Auðvitað þarf að skila lokskýrslum og þess háttar [..] enAð festa sig ekki þar, að við missum ekki af góðu fólki af því það er bara ekki í Excellinu.
+
+— Frumkvöðull á Norðurlandi
+
 
 ## Frá Seyðisfirði
 

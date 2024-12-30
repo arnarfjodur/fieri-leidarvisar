@@ -7,7 +7,7 @@ outline: deep
 
 Ef frumkvöðlar og nýsköpun þeirra eru ólík milli þéttbýlis og dreifbýlis, geta forsendur þeirra úrræða sem hið opinbera veitir þeim haft mikil áhrif á hvert stuðningurinn leitar. Það getur því verið gagnlegt að velta fyrir sér hvernig ólík form stuðnings gætu haft áhrif á hvert stuðningurinn endar, þó það sé ekki alltaf meðvituð ákvörðun að styrkja eitt landsvæði frekar en annað.
 
-Hvernig, hversu mikið, og á hvaða forsendum hið opnbera styrkir nýsköpun er auðvitað pólitísk ákvörðun. Við getum greint úrræðin gróflega niður í þessar nálgangir:
+Hvernig, hversu mikið, og á hvaða forsendum hið opnbera styrkir nýsköpun er  pólitísk ákvörðun. Við getum greint úrræðin gróflega niður í þessar nálgangir:
 
 1. [Að styrkja nýnæmi og vöxt](#að-styrkja-nynæmi-og-voxt)
 2. [Að styrkja fjárfestingu](#að-styrkja-fjarfestingu)
@@ -33,9 +33,13 @@ Líkt og [áður hefur verið rætt](/inngangur/hvad_er_nyskopun.html), getur fa
 Eitt úrræði hefur vaxið mjög mikið í umfangi undanfarin ár er [skattafrádráttur vegna rannsókna og þróunarverkefna](https://www.rannis.is/sjodir/atvinnulif/skattfradrattur/). Hugtakið “skattafrádráttur” kann að valda misskilningi, því greiðslurnar tengjast ekki á beinan hátt skattgreiðslum. Greiðslurnar eru styrkur í formi endurgreiðslu á hluta af tilteknum kostnaði sem fyrirtæki leggja í rannsóknar- og þróunarverkefni. Hlutfall kostnaðar fer eftir ýmsum forsendum, frá 25% - 35% af útlögðum kostnaði, með vissum hámörkum og takmörkunum þó. Fyrirtæki sem eyðir 100 milljónum í þróunarverkefni gæti því undir ákveðnum kringumstæðum fengið 25 milljónir af því endurgreitt frá ríkinu^[[Skatturinn: Skattfrádráttur vegna nýsköpunar
 ](https://www.skatturinn.is/atvinnurekstur/framtal-og-alagning/fradrattur-vegna-nyskopunar/)].
 
+Á undanförnum árum hafa þessar greiðslur orðið aðal tæki stjórnvalda til að styðja við nýsköpun. Þegar þetta er skrifað er áætlað er að þær muni nema um 15.3 milljörðum fyrir aðeins árið 2024 eitt og sér^[[Kjarninn: Controlant fékk hæsta skattafrádráttinn vegna nýsköpunar en CCP hæstu upphæðina
+](https://kjarninn.is/skyring/controlant-fekk-haesta-skattafradrattinn-vegna-nyskopunar-en-ccp-haestu-upphaedina/)].
+
+
 Í mjög einfeldningslegri réttlætingu fyrir slíkum úrræðum er stundum talað líkt og slík fjármögnun ríkisins sé því að kostnaðarlausu, þar sem hún skapi nýja starfsemi sem skili sér til baka í skatttekjum. Sé þessi hugmyndin tekin áfram í sínar röklegu öfgar sé þetta einhverskonar eilífðarvél verðmætasköpunar, enda ganga fæstir svo langt að halda því fram.
 
-Öll fjárfesting hins opinbera, hvort sem er í nýsköpun eða öðru, er gerð undir því yfirskini að skapa einhverskonar verðmæti og í nær öllum tilfellum skilar hún sér til baka að einhverju leyti í formi skatta. Svigrúm ríkisins til fjárfestinga er þó takmarkað, og því þarf að meta kosti einnar leiðar fram yfir aðra.
+Öll fjárfesting hins opinbera, hvort sem er í nýsköpun eða öðru, er gerð undir því yfirskini að skapa einhverskonar verðmæti og í nær öllum tilfellum skilar hún sér til baka að einhverju leyti í formi skatta. Svigrúm ríkisins (eða hagkerfisins alls) til fjárfestinga er þó takmarkað, og því þarf að meta kosti einnar leiðar fram yfir aðra.
 
 #### Því stærri, því meira
 Eitt af því sem einkennir aðferðina endurgreiðslur vegna kostnaðar, er að af því leiðir að því meiri fjárhagslega veltu sem aðili hefur, því meira fé er hægt að sækja. Þannig sótti tölvuleikjafyrirtækið CCP 550 milljónir árið 2022, en það er 26 ára gamalt og er í eigu kóreska fyrirtækisins Pearl Abyss. Á eftir CCP það árið sótti Controlant 385 milljónir, en fyrirtækið hefur vaxið mjög hratt á undanförnum árum með samningum við lyfjarisa líkt og Pfiz­er. Þar á eftir var rótgróna tæknifyrirtækið Origo með álíka upphæð og Controlant í styrk í formi endurgreiðslna frá hinu opinbera.
@@ -45,7 +49,7 @@ Að sjálfsögðu njóta smærri fyrirtæki einnig góðs af þessu fyrirkomulag
 #### Að viðhalda eða umbreyta
 Hvaða áhrif hefur þessi aðferð við að fjármagna nýsköpun á það hvert á landinu stuðningurinn leitar? Líkt og áður kom fram, fór um 90% af þessum styrkjum til höfuðborgarsvæðisins miðað við fyrirliggjandi gögn. Þetta er í svipuðu hlutfall og önnur helstu úrræði til stuðnings nýsköpunar. Það má því segja að miðað við þessar takmörkuðu upplýsingar leiti skattafrádrátturinn jafn illa út á land eins og önnur helstu úrræði.
 
-Það má þó velta fyrir sér hvort að kosntnaðartengdur stuðningur sé til þess fallinn að viðhalda ójafnri aðstöðu, frekar en jafna aðstöðuna þegar kemur að nýsköpun. Þar sem forsenda þess að fá fjármögnun er að hafa fjármögnun fyrir, eru líkur á að svæði sem eru “eftir á” njóti þeirra síður. Þau hafi færri fyrirtæki sem komin eru með teljanlega veltu, og fái síður fjármagn úr slíkum úrræðum. Loks er ljóst, að slík verkefni eru ekki sérstaklega fallin til að styðja við verkefni hvers verðmætasköpun er fyrst og fremst samfélagslegs eðlis. Veltutengd úrræði styðja aðeins þá verðmætasköpun sem myndar bókhaldslegt umfang hjá félaginu, ekki samfélagsleg verðmæti sem mælast ekki í efnhagsreikningi.
+Það má þó velta fyrir sér hvort að veltutengdur stuðningur sé til þess fallinn að viðhalda ójafnri aðstöðu, frekar en jafna aðstöðuna þegar kemur að nýsköpun. Þar sem forsenda þess að fá fjármögnun er að hafa fjármögnun fyrir, eru líkur á að svæði sem eru “eftir á” njóti þeirra síður. Þau hafi færri fyrirtæki sem komin eru með teljanlega veltu í sín nýsköpunarverkefni, og fái síður fjármagn úr slíkum úrræðum. Loks er ljóst, að slík verkefni eru ekki sérstaklega fallin til að styðja við verkefni hvers verðmætasköpun er fyrst og fremst samfélagslegs eðlis. Veltutengd úrræði styðja aðeins þá verðmætasköpun sem myndar bókhaldslegt umfang hjá félaginu, ekki samfélagsleg verðmæti sem mælast ekki í efnhagsreikningi.
 
 ### Að styrkja ákveðna geira
 
@@ -78,7 +82,7 @@ Hægt væri að færa rök bæði með og á móti slíku fyrirkomulagi:
 
 ## Okkar er valið
 
-Úrræði líkt og uppbyggingasjóðir landshlutanna eða verkefnastyrkir Brothættra byggða gera mun minni kröfur um nýnæmi eða væntan viðskiptalegan vöxt. Þau eru þó jafnframt mun minni en helstu úrræði til nýsköpunar á landsvísu eru og ná til fjölbreyttara sviðs. Verkefnastyrkir uppbyggingasjóðs Vestfjarða námu til að mynda um 50 milljónum árið 2023 sem deildust á 69 verkefni eða um 700þús að meðaltali á hvert verkefni.. Aðeins hluti af þeim verkefnum myndu þó teljast til nýsköpunar, enda styrkir sjóðurinn til að mynda menningarverkefni líka. Til samanburðar geta einstaka styrkir frá Tækniþróunarsjóði numið 70 milljónum.
+Úrræði líkt og uppbyggingasjóðir landshlutanna eða verkefnastyrkir Brothættra byggða gera mun minni kröfur um nýnæmi eða væntan viðskiptalegan vöxt. Þau eru þó jafnframt mun minni en helstu úrræði til nýsköpunar á landsvísu eru og ná til fjölbreyttara sviðs. Verkefnastyrkir uppbyggingasjóðs Vestfjarða námu til að mynda um 50 milljónum árið 2023 sem deildust á 69 verkefni eða um 700þús að meðaltali á hvert verkefni. Aðeins hluti af þeim verkefnum myndu þó teljast til nýsköpunar, enda styrkir sjóðurinn til að mynda menningarverkefni líka. Til samanburðar geta einstaka styrkir frá Tækniþróunarsjóði numið 70 milljónum.
 
 Það sem máli skiptir í þessari umræðu er að hið opinbera hefur úr margvíslegum úrræðum, og ákvarðar jafnframt hlutfall þeirra króna og aura sem renna til hvers úrræðis. Það er því að miklu leyti afrakstur opinberrar stefnumótunar hvert á landinu stuðningur leitar.
 
@@ -90,4 +94,4 @@ Hægt er að skoða stuðning hins opinbera út frá óteljandi forsendum, ekki 
 
 Hið opinbera gæti til að mynda skilyrt stuðning sinn við lausnir á ákveðnum samfélagslegum áskorunum, líkt og fylgjendur nýsköpunarleiðangra (e. mission-oriented innovation) leggja til. Eða að það ætti að enbeita sér að því að styrkja og umbreyta fáum útvöldum geirum á hverjum stað fyrir sig í anda snjallrar sérhæfingar. Þá getum við líka látið svoleiðis bollaleggingar sem vind um eyru þjóta, og stefnt einfaldlega að sem skjótustum efnahagslegum vexti, fleri einhyrningum og háu útboðsgengi nýsköpunarfyrirtækja á markaði.
 
-Hvort sem við tölum um það opinskátt eða ekki, liggja alltaf til grundvallar slíkum ákvörðunum mismunandi skilningur á verðmætasköpun og samfélagslegum markmiðum. Umræðan um hvernig úrræði við viljum beita til stuðnings nýsköpun getur því aldrei einskorðast við sértæk úrslausnarefni nýsköpunar, heldur gengur í grunninn út á að svara því hverskonar samfélag við viljum þróa til framtíðar og með hvaða markmiðum að leiðarljósi.
+**Hvort sem við tölum um það opinskátt eða ekki, liggja alltaf til grundvallar slíkum ákvörðunum mismunandi skilningur á verðmætasköpun og samfélagslegum markmiðum. Umræðan um hvernig úrræði við viljum beita til stuðnings nýsköpun getur því aldrei einskorðast við sértæk úrslausnarefni nýsköpunar, heldur gengur í grunninn út á að svara því hverskonar samfélag við viljum þróa til framtíðar og með hvaða markmiðum að leiðarljósi.**

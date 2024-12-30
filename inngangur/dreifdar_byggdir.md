@@ -35,9 +35,6 @@ Tækniþróunarsjóður er einn helsti opinberi sjóður sem styður við nýsk�
 
 Önnur mikilvæg leið hins opinbera til að styðja við nýsköpun er í gegnum svokallaða “skattaafslætti” vegna rannsóknar og þróunar. Í gegnum þá geta aðilar sem stunda rannsóknir og þróun fengið hluta af því fjármagni til baka frá ríkinu sem þeir verja til rannsóknar og þróunar vegna nýsköpunar. Ólíkt samkeppnissjóðum líkt og Tækniþróunarsjóði eru þessar endurgreiðslur réttindi sem greiðist að uppfylltum ákveðnum skilyrðum. Hlutfall þessara greiðslna sem runnu til höfuðborgarsvæðisins var svipað og Tækniþróunarsjóðs, eða um 91% af þeim rúmum 16 milljörðum sem greiddir voru á árunum 2011 - 2019.
 
-Á undanförnum árum hafa þessar endurgreiðslur aukist mjög mikið. Áætlað er að þær muni nema um 15.3 milljörðum fyrir aðeins árið 2024 eitt og sér^[[Kjarninn: Controlant fékk hæsta skattafrádráttinn vegna nýsköpunar en CCP hæstu upphæðina
-](https://kjarninn.is/skyring/controlant-fekk-haesta-skattafradrattinn-vegna-nyskopunar-en-ccp-haestu-upphaedina/)].
-
 Þessar tvær uppsprettur opinbers fjármagns eru líklega mikilvægastar þegar kemur að nýsköpun á landsvísu, en önnur fjármögnun á landsvísu sem tengist t.d. rannsóknum eða listum og skapandi greinum fylgir svipuðu mynstri þegar kemur að skiptingu milli höfuðborgarsvæðis og landsbyggða.
 
 Samkvæmt úttektinni er staðfest að “höfuðborgarsvæðið nýtur mikils stuðnings til rannsókna og nýsköpunar”. Hins vegar er bent á, að lítill munur sé á árangurshlutfalli umsókna eftir landshutum^[[Minnisblað vegna úttektar á skiptingu styrkja til rannsókna og
@@ -49,7 +46,7 @@ Beinast liggur við að spyrja hvort nýsköpunarstarfsemi sé einfaldlega meiri
 
 ### Á nýsköpun heima í Reykjavík?
 
-Margt er ólíkt milli samfélagsgerðar dreifbýlis og þéttbýlis sem snertir umhverfi nýsköpunar. Atvinnuhættir í dreifðum byggðum hefur til langs tíma frekar tengst beinni nýtingu á náttúruauðlindum, s.s. landbúnaði og sjávarútvegi. Hinn svokallaði “þekkingariðnaður” virðist fremur spretta upp í borgum, enda eru flestir háskólar og rannsóknarstofnanir þar. Þá býður fjölmennið oft upp á meiri sérhæfingu og fjölbreyttari hæfni og þekking getur komið saman á einum stað en hægt væri á smærri stöðum. Jafnframt eru fjárfestar og fjármagn yfirleitt með sínar bækistöðvar á stærri stöðum, sem og flestar stofnanir ríkisins.
+Margt er ólíkt milli samfélagsgerðar dreifbýlis og þéttbýlis sem snertir umhverfi nýsköpunar. Atvinnuhættir í dreifðum byggðum hafa til langs tíma frekar tengst beinni nýtingu á náttúruauðlindum, s.s. landbúnaði og sjávarútvegi. Hinn svokallaði “þekkingariðnaður” virðist fremur spretta upp í borgum, enda eru flestir háskólar og rannsóknarstofnanir þar. Þá býður fjölmennið oft upp á meiri sérhæfingu og fjölbreyttari hæfni og þekking getur komið saman á einum stað en hægt væri á smærri stöðum. Jafnframt eru fjárfestar og fjármagn yfirleitt með sínar bækistöðvar á stærri stöðum, sem og flestar stofnanir ríkisins.
 
 Það væri því ekki fjarstæðukennt að velta því upp að hvort nýsköpun eigi sér mögulega sitt eðililega heimili á stærri stöðum? En þó ekkert sé að því að spyrja þessarar spurningar, ættum við ekki að láta staðar numið þar.
 
