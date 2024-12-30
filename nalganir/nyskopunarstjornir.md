@@ -6,7 +6,7 @@ outline: deep
  
 ### Á hið opinbera að „vera með puttana“ í nýsköpun?
  
-Á tímabili var orðið nýsköpun nær aðeins tengd við einkageirann. Á hinum frjálsa markaði leitist fyrirtæki í samkeppni við hvort annað við að finna nýjar leiðir til að gera meira fyrir minni tilkostnað, og noti þannig nýsköpun til að finna upp nýjar aðferðir og ferla.
+Á tímabili var orðið *nýsköpun* nær aðeins tengd við einkageirann. Á hinum frjálsa markaði leitist fyrirtæki í samkeppni við hvort annað við að finna nýjar leiðir til að gera meira fyrir minni tilkostnað, og noti þannig nýsköpun til að finna upp nýjar aðferðir og ferla.
  
 Byltingarkenndar framfarir í tækni og nýsköpun verði þegar dáðadrengir fái snjallar hugmyndir og fylgi þeim eftir með dugnaði og þori. Til þess leitist þeir eftir fjármagni frá framtaksfjárfestum sem þori að veðja á nýjar hugmyndir.
  
@@ -14,16 +14,16 @@ Samkvæmt þeirri einfölduðu klisju sem dregin var fram að ofan, er hlutverk 
  
 Þessi mynd er dregin hér upp af muninum af einkaaðilum og opinberum þegar kemur að nýsköpun er einsskonar strámaður, sem fáir orða jafn einstrengingslega. En viðhorf sem byggja á henni undirbyggja oft ómeðvituð viðhorf á ályktanir.
  
-Þegar litið er til uppruna þeirra nýsköpunar og tæknibreytinga sem nú tröllríða samfélaginu, kemur í ljós að hið opinbera hefur jafnan leikið lykilhlutverk í að hrinda þeim af stað. Og þó að flestir hafi upplifað trénaða skrifffinnsku hins opinbera á eigin skinni, eru einnig fjölmörg dæmi þess að opinbert fjármagn sé mun áhættusæknara og framsýnna en einkafjármagnið, jafnvel þó einkafjármagnið fari stundum undir nafninu „áhættufjármagn“.
+Þegar litið er til uppruna þeirra nýsköpunar og tæknibreytinga sem nú tröllríða samfélaginu, kemur í ljós að hið opinbera hefur oft leikið lykilhlutverk í að hrinda þeim af stað. Og þó að flestir hafi upplifað trénaða skrifffinnsku hins opinbera á eigin skinni, eru einnig fjölmörg dæmi þess að opinbert fjármagn sé mun áhættusæknara og framsýnna en einkafjármagnið, jafnvel þó einkafjármagnið fari stundum undir nafninu „áhættufjármagn“.
  
  ::: info Nýsköpunarstjórnin
 ![Nýsköpunartorgarar](/photos/nyskopunartogarar.jpg)
 Eftir seinni heimsstyrjöl starfaði svokölluð Nýsköpunarstjórn á Íslandi, sem beitti sér fyrir umbreytingum á íslenskum sjávarútvegi. Mynd: Morgunblaðið, 18. febrúar 1947.
  :::
 ### Frumkvöðlaríkið
-Fræðikonan Mariana Mazzucato hefur verið ötul talskona þess að viðurkenna þátt hins opinbera í leiða framfarir á sviði nýsköpunar og tækni. Lengi hefur verið viðurkennt að ríkið styðji við undirstöður nýsköpunar, s.s. með þeirri þekkingarsköpun sem felst í grunn rannsóknum, menntakerfinu o.s.frv. En Mazzucato hefur sýnt fram á að hlutverk ríkisins er mun virkara en það, og talar hún um hið opinbera sem frumkvöðul í þekktustu bók hennar *The Entrepreneurial State*.
+Fræðikonan Mariana Mazzucato hefur verið ötul talskona þess að viðurkenna þátt hins opinbera í leiða framfarir á sviði nýsköpunar og tækni. Lengi hefur verið viðurkennt að ríkið styðji við undirstöður nýsköpunar, s.s. með þeirri þekkingarsköpun sem felst í grunn rannsóknum, menntakerfinu o.s.frv. En Mazzucato hefur sýnt fram á að hlutverk ríkisins er mun virkara en það, og talar hún um hið opinbera sem frumkvöðul í þekktustu bók sinni *The Entrepreneurial State*.
  
-Mikill hluti þeirrar tækni sem stærstu fyrirtæki Kísildals byggi á hafi verið annaðhvort fjármögnuð, eða beinlínis þróuð af opinberum aðilum. Stofnanir líkt og hin bandaríska DARPA, hvers opinbert markmið er að þróa tækni til varnarmála, var til að mynda fyrir þróun Internetsins, ýmsum framförum í gervigreind, GPS tækninni, myndrænunum tölvuviðmótum og svo mætti lengi telja.
+Mikill hluti þeirrar tækni sem stærstu fyrirtæki Kísildals byggi á hafi verið annaðhvort fjármögnuð, eða beinlínis þróuð af opinberum aðilum. Stofnanir líkt og hin bandaríska DARPA, hvers opinbert markmið er að þróa tækni til varnarmála, stóð til að mynda fyrir þróun Internetsins, ýmsum framförum í gervigreind, GPS tækninni, myndrænunum tölvuviðmótum og svo mætti lengi telja.
  
 Hlutverk einkafyrirtækja í tæknigeiranum líkt og Apple og Google hafi ekki alltaf verið að þróa grundvallar tæknina sem þau selja, heldur að koma henni á markað og finna leiðir til að hafa af henni tekjur. Ekki skyldi gera lítið úr því, en engu að síður falli það oft í skaut einkafyrirtækja að fleyta rjómann af tækni sem hafi verið þróuð með opinberu fjármagni.
  
@@ -60,9 +60,18 @@ Til þess að hver einkafjárfesting fyrir sig geti orðið arðbær þarf því
  
 **3. Atgervisflótti**
 
-Við atgervisflótta hverfa fjárfestar jafnframt á braut. Fyrirtæki, fjármagnseigendur og fjármálastofnanir fara annað. Frumkvöðlar og einstaklingar með tengsl og félagslega stöðu hætta að búa á staðnum. Einkafjármagn vinnur gjarnan á grundvelli óformlegra persónulegra tengsla. Fjárfestar og fjármálastofnanir eru viljugri til að fjárfesta í eigin nærumhverfi. [3] Þetta gerir enn ólíklegra að einkafjármagn komi til þegar efnahagsleg hnignun á sér stað.
- 
+Við atgervisflótta hverfa fjárfestar jafnframt á braut. Fyrirtæki, fjármagnseigendur og fjármálastofnanir fara annað. Frumkvöðlar og einstaklingar með tengsl og félagslega stöðu hætta að búa á staðnum. Einkafjármagn vinnur gjarnan á grundvelli óformlegra persónulegra tengsla. Fjárfestar og fjármálastofnanir eru viljugri til að fjárfesta í eigin nærumhverfi. Þetta gerir enn ólíklegra að einkafjármagn komi til þegar efnahagsleg hnignun á sér stað.
+
+::: tip Að drepa hugmynd með augnaráðinu einu saman
+
+> Það sem myndi hjálpa væri að sveitarstjórnir væru meðvitaðari um mikilvægi nýsköpunar. Ég hef upplifað það á eigin skinni og annars staðar, að fólk komi að lokuðum dyrum þar. Þá er ég ekki að tala um að sveitarfélögin séu að ausa peningum eða slíkt í verkefnum, en frumkvöðlar fara oft til sveitarfélaga og eru að viðra hugmyndir og þurfa samstarf við þá og það getur bara hjálpað að fá góða hlustun, það er hægt að drepa góðar hugmyndir bara með augnaráðinu einu saman. Þetta umhverfi, þetta klapplið sem frumkvöðullinn þarf, að koma inn þessu hugarfari.
+
+— Frumkvöðull á Austurlandi.
+
+:::
+
 ## Vágur í Færeyjum
+
  
 Dæmi um hvernig „ósýnileg hönd“ markaðarins kemur í kjölfar handa hins opinbera er sú þróun sem átt hefur sér stað í bæjarfélaginu Vági í Færeyjum.
  

@@ -22,7 +22,7 @@ Fljótt á litið gæti virst lítill munur á sköpunarmiðstöð og því sem 
 
 ### Þema og sérhæfing
 
-Þema og nálgun hverrar miðstöðvar þarf að haga eftir aðstæðum hverju sinni. Í Reykjavík starfrækir t.d. [Íslenski sjárvarklasinn](https://www.sjavarklasinn.is/https:/) skrifstofuaðstöðu við gömlu höfnina, þar sem um 70 fyrirtæki og frumkvöðlar í „hafsækinni starfsemi“ vinna á sama stað, meðan [hafnar.haus](https://hafnar.haus) starfrækir vinnuaðstöðu fyrir meira en 200 manns í skapandi greinum hinumegin við höfnina. Sjávarklasin einbeitir sér að starfsemi tengdri sjávarútveg meðan hafnar.haus hýsir fyrst og fremst listafólk.
+Þema og nálgun hverrar miðstöðvar þarf að haga eftir aðstæðum hverju sinni. Í Reykjavík starfrækir t.d. [Íslenski sjárvarklasinn](https://www.sjavarklasinn.is/https:/) skrifstofuaðstöðu við gömlu höfnina, þar sem um 70 fyrirtæki og frumkvöðlar í „hafsækinni starfsemi“ vinna á sama stað, meðan [hafnar.haus](https://hafnar.haus) starfrækir vinnuaðstöðu fyrir nærri 200 manns í skapandi greinum hinumegin við höfnina. Sjávarklasin einbeitir sér að starfsemi tengdri sjávarútveg meðan hafnar.haus hýsir fyrst og fremst listafólk.
 
 Það er ólíklegt að miðstöðvar úti á landi geti verið svo sérhæfðar, nema þær séu sérstaklega að miða starfsemi sína að notendum sem komi annars staðar frá. Dæmi um sérhæfða miðstöð úti á landi er [Textílmiðstöð Íslands](https://www.textilmidstod.is/) á Blönduósi, þar sem ýmis aðstaða og starfsemi til að vinna með, læra um og þróa textíl er til staðar og sótt af fólki hvaðanæva að af landinu og heiminum með áhuga á því sviði.
 
@@ -62,9 +62,9 @@ Eins og áður sagði er tilgangur sköpunarmiðstöðva fólginn í því samf�
 
 Það getur hins vegar verið vandasamt að henda reiður á þeim samfélagslegu innviðum sem myndast, og skilningur á því hvernig beri að fjárfesta í þeim er mun meira á reiki en þeim efnislegu. Á meðan að fjármagn sem fer í tæki og efnislegar eignir flokkast sem fjárfesting á bókhaldinu, og afleiðingarnar af þess háttar fjárfestingu eru sýnilegar og áþreyfanlegar, þá er mun erfiðara að sýna óefnislegar fjárfestingar og beinar afleiðingar þeirra fyrir samfélagslega uppbyggingu.
 
-Sköpunarmiðstöðvar þurfa því einhverskonar gestgjafa. Þetta getur verið ein manneskja eða fleiri, í hlutastarfi eða fullu starfi, sjálfboðaliðar eða launafólk. Hlutverk gestgjafa er hið vandasama verk að fjárfesta í samfélagslegri uppbyggingu, hvers afleiðingar koma oft fram síðar, og ekki alltaf hægt að mæla með nákvæmum hætti. Hlutverk hans er að stuðla að samfélagi sem hvetur til nýsköpunar.
+Sköpunarmiðstöðvar þurfa því einhverskonar gestgjafa. Þetta getur verið ein manneskja eða fleiri, í hlutastarfi eða fullu starfi, sjálfboðaliðar eða launafólk. Hlutverk gestgjafa er hið vandasama verk að fjárfesta í samfélagslegri uppbyggingu, hvers afleiðingar koma oft fram síðar, og ekki alltaf hægt að mæla með nákvæmum hætti. 
 
-Slík samfélög eru opin og einlæg. Þau einkennast af flæði hugmynda og einstaklinga milli ólíkra skipulagsheilda. Umburðarlyndi er sýnt gagnvart ólíkum nálgunum og gagnvart mistökum.
+Hlutverk gestgjafa er að stuðla að samfélagi sem hvetur til nýsköpunar. Slík samfélög eru opin og einlæg. Þau einkennast af flæði hugmynda og einstaklinga milli ólíkra skipulagsheilda. Umburðarlyndi er sýnt gagnvart ólíkum nálgunum og gagnvart mistökum.
 
 ### Að tengja og plögga
 

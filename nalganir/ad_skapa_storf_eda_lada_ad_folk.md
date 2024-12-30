@@ -6,7 +6,7 @@ outline: deep
 
 Ekki er alltaf skýr munur gerður á hugtakinu nýsköpun og hugtakinu atvinnuþróun. Á stöðum þar sem fólksfækkun hefur orðið heyrist oft krafa frá íbúum og öðrum hagsmunaaðilum að það þurfi að „skapa ný störf“.
  
-Er nýsköpun til þess fallin að svara þessu ákalli um ný störf?
+**Er nýsköpun til þess fallin að svara þessu ákalli um ný störf?**
  
 Nýsköpun er oft talin fela í sér þversögnina um skapandi eyðileggingu. Nýsköpun getur bæði skapað og eytt störfum. Þó má segja að til lengri tíma litið sé líklegt að í heimi breytinga muni störfum fækka á þeim stöðum sem ekki ástunda nýsköpun.
  
@@ -23,7 +23,7 @@ Hvort sem við tökum svo djúpt í árina að telja að framundan sé ný iðnb
 ## Fólkið skapi störfin, ekki öfugt
 Þar sem náttúruleg skilyrði eru megin áhrifavaldur efnahagslegrar velgengni er viðbúið að slík skilyrði útskýri hvar fólki fjölgar eða fækkar. Í landbúnaðarsamfélögum má ætla að jarðkostir ráði miklu um hvar fólk sest að. Verstöðvar, og síðar sjávarþorp, mynduðust þar sem stutt var í gjöful fiskimið. 
 
-En með aukinni vélvæðingu, samgöngu- og samskipta bótum minnkaði vægi náttúrulegra aðstæðna. Þar sem fjárfest var í vélum: Frystihúsum, sláturhúsum, togurum, höfnum og vegasamgöngum, þar drífur að fólk. Í iðnvæddu samfélagi eru það atvinnutækin, vélarnar, sem skilja að þau samfélög sem blómgast og þau sem hnigna.
+En með aukinni vélvæðingu, samgöngu- og samskiptabótum minnkaði vægi náttúrulegra aðstæðna. Þar sem fjárfest var í vélum: Frystihúsum, sláturhúsum, togurum, höfnum og vegasamgöngum, þar drífur að fólk. Í iðnvæddu samfélagi eru það atvinnutækin; vélarnar, sem skilja að þau samfélög sem blómgast og þau sem hnigna.
  
 Öllu máli skipti því fyrir samfélög að verða valin til slíkra fjárfestinga. Ekki er óalgengt að stjórnmálamenn hvers svæðis gangi eftir fjárfestum með grasið í skónum og bjóði þeim gull og græna skóga kjósi þeir að byggja verksmiðju sína í þeirra heimabyggð.
  
@@ -42,11 +42,11 @@ Líkt og víða annars staðar hafa stórborgir í Japan vaxið, meðan útlit e
  
 Kamiyama byggði grundvöll sinn á skógrækt, en þegar sá iðnaður tók að dala fór að halla undan fæti. Nú til dags búa um 5.000 manns í bænum, sem er aðeins þriðjungur þess sem var í kringum 1955, auk þess sem hlutfall ungs fólks hefur lækkað. Samkvæmt opinberum viðmiðum var Kaymiyama einn af þeim bæum sem áttu á hættu að hverfa á næstu áratugum.
  
-En árið 2011 gerðist það í fyrsta sinn að fleiri fluttu til Kamiyama en fluttu þaðan. Á undanförnum árum hafa fjarvinnustöðvar ýmissa tæknifyrirtækja litið dagsins ljós, og atvinnustarfsemi sem ekki var hefðbundin í bæjum líkt og Kamiyama sprottið upp. Bærinn fékk orð á sér sem einn af þeim mest skapandi og lifandi í Japan. Það náði svo langt, að í lista viðskiptatímaritsins Forbes yfir mestu nýsköpunarborgir Japans árið 2017 var Kamiyama í 2. sæti á landsvísu.
+En árið 2011 gerðist það í fyrsta sinn að fleiri fluttu til Kamiyama en fluttu þaðan. Á undanförnum árum hafa fjarvinnustöðvar ýmissa tæknifyrirtækja litið dagsins ljós, og atvinnustarfsemi sem ekki var hefðbundin í bæjum líkt og Kamiyama sprottið upp. Bærinn fékk orð á sér sem einn af þeim mest skapandi og lifandi í Japan. Það náði svo langt, að í lista viðskiptaritsins Forbes yfir mestu nýsköpunarborgir Japans árið 2017 var Kamiyama í 2. sæti á landsvísu.
  
 ### Frá listamannadvöl yfir í fjarvinnustöðvar
 
-Eins og gjarnan er gerðist þessi umbreyting ekki á einni nóttu. Félagsskapur íbúa á staðnum sem kom saman vegna menningar og sögulegra málefna í byrjun 10. áratugarins leiddist svo út í að hýsa listamannadvöl. Skipuleggjendur listamannadvalarinnar lögðu áherslu á jákvæð samskipti heimamanna við þá listamenn sem komu til dvalarinnar, og verkefnið tók fljótt að vinda upp á sig. Með tímanum fór að bera á því orðspori að í Kamiyama væri vel tekið á móti aðkomufólki að og þar væri áhugaverð sköpun og gerjun að eiga sér stað.
+Eins og gjarnan er gerðist þessi umbreyting ekki á einni nóttu. Félagsskapur íbúa á staðnum sem kom saman vegna menningar og sögulegra málefna við upphaf 10. áratugarins leiddist svo út í að hýsa listamannadvöl. Skipuleggjendur listamannadvalarinnar lögðu áherslu á jákvæð samskipti heimamanna við þá listamenn sem komu til dvalarinnar, og verkefnið tók fljótt að vinda upp á sig. Með tímanum fór að bera á því orðspori að í Kamiyama væri vel tekið á móti aðkomufólki að og þar væri áhugaverð sköpun og gerjun að eiga sér stað.
  
 Félagsskapurinn sem stóð fyrir listamannadvölinni færði fljótlega út kvíarnar og hóf að bjóða upp á einskonar „vinnudvöl“ í svipuðum dúr. Frumkvæði var tekið við að finna fólk sem gæti hafið starfsemi á staðnum líkt og bakarí eða hönnunarstúdíó. Hugmyndin var að leita uppi fólk sem gæti lagt eitthvað til velferð bæjarins og fengið að máta sig við dvöl þar. Það var lán í óláni að mikið húsnæði stóð ónýtt í Kamiyama vegna fólksfækkunar, sem svo var markvisst hægt að tengja við áhugasama frumkvöðla.
  

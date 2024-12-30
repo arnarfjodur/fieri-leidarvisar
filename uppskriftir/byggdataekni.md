@@ -4,7 +4,7 @@ outline: deep
 
 # Byggðatækni
 ::: tip Um þessa uppskrift
-Þessi uppskrift er “spekúlatíf” í þeim skilningi að hún er ekki uppskrift úr dæmum sem þegar eru til staðar, en byggir þó á reynslu úr ýmsum áttum.
+Þessi uppskrift er “spekúlatíf” í þeim skilningi að hún er ekki unnin úr dæmum sem þegar eru til staðar, heldur tillaga að því sem gæti orðið út frá reynslu úr ýmsum áttum.
 :::
 
 **Byggðatækni (e. region tech) gengur út að nýta tækni og nýsköpun til þessa að leysa sértæk vandamál dreifðra byggða. Farvegur slíkrar nýsköpunar gæti verið alþjóðleg miðstöð sem stefnir saman rannsakendum og frumkvöðlum til þess leysa áskoranir þessu tengdu.**
@@ -19,7 +19,7 @@ Klassískt dæmi um leiðangra í þessu skilningi eru tunglferðir bandaríkjan
 
 Hlutverk byggðatæknimiðstöðvarinnar væri að leysa mikilvægar áskoranir sem steðja að dreifðum byggðum með nýsköpun. Áskoranir sem hafa áhrif á dreifðar byggðir eru oft ólíkar þeim sem borgir standa frammi fyrir. Vegna þess hversu sterkara nýsköpunarvistkerfið er í borgum, er hætta á að nýrri þekkingu og tækni sé síður beitt til að leysa áskoranir úti á landi.
 
-Oft á tíðum er niðurgreiðslum og sporslum hvers konar beitt til að jafna aðstöðumun milli borgar og landsbyggða. Markmið byggðatækni væri ekki að draga úr afleiðingum vandamála dreifðra byggða, heldur að leysa vandamálin, og jafnvel snúa þeim upp í tækifæri.
+Oft á tíðum er niðurgreiðslum og sporslum hvers konar beitt til að jafna aðstöðumun milli borgar og landsbyggða. Markmið byggðatækni væri ekki að draga tímabundið úr afleiðingum vandamála dreifðra byggða með plástrum, heldur að leysa vandamálin, og jafnvel snúa þeim upp í tækifæri.
 
 ## Slagkraftur og stærð
 Eitt af vandamálum nýsköpunar sem beinir sér að áskorunum dreifðra byggða er skali. Sé lausn þróuð fyrir borgir sem tengist t.d. samgöngum, er hægt að koma henni í gagnið til fjölda notenda í aðeins einum stað. Það myndi á móti aldrei svara kostnaði að leggja í miklar rannsóknir og þróun fyrir lausn sem ætlað er fyrir aðeins eitt þorp eða smábæ. En þó að einstaka bæir, þorp eða sveitir séu, eðli málsins samkvæmt mannfáir, þá búa enn milljarðar manna í einhverskonar dreifbýli.
