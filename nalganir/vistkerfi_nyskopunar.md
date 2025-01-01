@@ -6,7 +6,7 @@ outline: deep
 
 Nýsköpun er nýstárleg leið til þess að skapa verðmæti. En hvernig fer hún fram? Eins og rætt var í kaflanum [Hvað er nýsköpun?](/inngangur/hvad_er_nyskopun) er óvissa helsta einkenni nýsköpunar. Þetta skapar alveg sérstaka þverstæðu þegar gera á áætlanir og ramma utan um eflingu nýsköpunar. Hvernig er hægt að plana óvissu?
 
-Að sama skapi mætti spyrja, hver er uppskriftin að nýsköpun? Hver eru hráefnin og fyrirmælin sem þarf að fylgja til þess að nýsköpun eigi sér stað? Hver er ástæða þess að nýsköpun dafnar á einum stað og tíma, en ekki öðrum? Er á annað borð hægt að hafa áhrif á það að nýsköpun eigi sér stað?
+Að sama skapi mætti spyrja, hver er uppskriftin að nýsköpun? Hver eru hráefnin og fyrirmælin sem þarf að fylgja til þess að nýsköpun eigi sér stað? Hver er ástæða þess að nýsköpun dafnar á einum stað og tíma, en ekki öðrum? Er á annað borð hægt að hafa áhrif á það að nýsköpun eigi sér stað? Er betra að horfa á nýsköpun á sviði hverrar einingar fyrri sig, s.s. á það fyrirtæki sem er að stunda nýsköpunar, eða gerist hún sem hluti af stærra kerfi. Er þetta kerfi bundið við landssvæði, þjóðlönd, ólíka geira, eða kannski alþjóðlegt?
 
 Frægt líkan sem reynir að svara þessum spurningum á uppruna sinn frá 10. áratugnum, og er hið svokallaða þriggja sviða líkan háskóla, iðnaðar og yfirvalda. Það gerir ráð fyrir að nýsköpun spretti í samskiptum þessara sviða. **Háskólar** eru uppspretta nýrrar þekkingar, en þessi þekking verður ekki hagnýtanleg og þar með verðmætaskapandi fyrr en **iðnaðurinn** kemur henni á markað. **Yfirvöld** eru svo nauðsynleg til þess að skapa ramma og innviði.
 

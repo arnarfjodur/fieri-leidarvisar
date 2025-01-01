@@ -67,3 +67,19 @@ Hér verður reynt að velta upp spurningum sem gæti skipt máli við stefnumó
 Líkt og minnst var á í kaflanum [Hvað er nýsköpun?](/inngangur/hvad_er_nyskopun), felst nýnæmið samkvæmt í viðhorfi viðkomandi hagaðila. Þ.e.a.s. - háskólanám er ekki nýtt í heiminum en það var nýtt á Vestfjörðum. Að koma á fót háskólanámi á Vestfjörðum getur því vel talist nýsköpun fyrir þeim sem það stunda, og þá sem það snertir.
 
 Nær öll verkfæri sem beitt er til að styðja við nýsköpun frá hendi hins opinbera gera einhverskonar kröfu um nýnæmi. Oft er mikill þrýstingur á að opinberir aðilar styrki ekki rekstur sem þegar er til, enda geti það skekkt samkeppnisstöðu. Það ber þó að hafa í huga, að hvernig við skilgreinum nýnæmi og hvernig mat á nýnæmi er útfært, gæti haft afleiðingar um það hvert stuðningurinn leitar. Mjög þröng skilgreining á nýnæmi, t.d. sú sem ekki tekur tillit til þess hvernig nýnæmi getur verið bundið við staðsetningu, gæti leitt til þess að stuðningur við nýsköpun leiti síður út á land þar sem verið er að finna upp sama hjól, en í ólíkum aðstæðum.
+
+## Svæðisbundnar þverstæður nýsköpunar
+
+Árið 2002 bentu fræðimenn á ákveðnar þverstæður í því hvernig stuðningur til nýsköpunar leitar milli svæða í grein þar sem það var kallað á ensku *The Regional Innovation Paradox*^[[The Regional Innovation Paradox: Innovation Policy and Industrial Policy](https://www.researchgate.net/publication/5152703_The_Regional_Innovation_Paradox_Innovation_Policy_and_Industrial_Policy)],. Þversögnin felst í því, að þau svæði sem eru eftir á í nýsköpun eiga erfiðara með að fjárfesta í nýsköpun en þau svæði sem framar standa. Niðurstöður þeirrar greiningar voru að til þess að leysa þessu þversögn þyrfti aðgerðir sem ýttu undir bæði eftirspurn og framboð af stuðningi til nýsköpunar.
+
+Í greininni er bent á, að þó að mikill munur sér að virkni nýsköpunar milli þjóðríkja, s.s. mældri í fjárfestingu í rannsóknum og þróun, þá sé einnig mikill munur innan ríkja á milli ólíkra svæða. 
+
+Vandinn við ólíka virkni mismunandi landssvæða í nýsköpun sé ekki fyrst og fremst skortur aðgengi að opinberu fjármagni á þeim svæðum sem séu eftir á. Skýringin liggi fremur í einkennum stofnanna þessara svæða og nýsköpunarkerfi þeirra:
+
+> Nánar tiltekið, þá sýna fyrirtæki á þessum svæðum litla eftirspurn eftir rannsóknum og þróun og öðru inntaki [e. inputs] nýsköpunar, og skortir oft hefð fyrir samstarfi og trausti sín á milli og annarra þátttakenda í nýsköpun, svo sem háskóla. Fyrirtæki sýna ekki eftirspurn eftir inntaki nýsköpunar og þjónustu. Á sama tíma eru tækni- og rannsóknarinnviðir svæðisins ekki innvínklaðir í hagkerfi þess, og því geta þeir sem bjóða fram þjónustu nýsköpunar (tækni, þjálfun/menntun, framtaksfjármag) ekki borið kennsl á þarfir og hæfni fyrirtækja á svæðinu. Það er því skortur á samhæfingu milli svæðisbundins framboðs (af nýsköpunarþjónustu) og eftirspurn eftir nýsköpun (inntaki/þjónustu). 
+
+>— Oughton, Christine & Landabaso, Mikel & Morgan, Kevin. (2002)^[Oughton, Christine & Landabaso, Mikel & Morgan, Kevin. (2002). The Regional Innovation Paradox: Innovation Policy and Industrial Policy. The Journal of Technology Transfer. 27. 97-110. 10.1023/A:1013104805703. ]. 
+
+Aðgengi fyrirtækja allstaðar að af landinu að úrræðum líkt og endurgreiðslum vegna rannsóknar og þróunar formlega það sama. Sárafá fyrirtæki utan af landi nýta sér þó þetta úrræði. Hvort lýsingin að ofan á vanda þeirra svæða sem aftar standa að eigi við um íslenskar landsbyggðir eða ekki, þá bendir margt til þess að vandinn sé að einhverju leyti að eftirspurn eftir nýsköpunarúrræðum sé ekki til staðar, vegna stofnanalegra einkenna svæðanna, líkt og höfundar greinarinnar telja.
+
+Það er því mögulega ekki nóg að öll svæði hafi jafnt aðgengi að tækifærum til stuðnings við nýsköpun, heldur sé nauðsynlegt að styðja hvert svæði fyrir sig að þróa með sér hæfnina til þess að að nýta sér þessi tækifæri.

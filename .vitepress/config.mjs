@@ -86,7 +86,7 @@ export default defineConfig({
           { text: 'Að skapa störf eða laða að fólk', link: '/nalganir/ad_skapa_storf_eda_lada_ad_folk' },
           { text: 'Nýsköpunarstjórnir', link: '/nalganir/nyskopunarstjornir' },
           { text: 'Störf og staðsetningar', link: '/nalganir/storf_og_stadsetningar'},
-          { text: 'Snjöll sérhæfing', link: '/nalganir/snjoll_serhaefing' }           
+          { text: 'Sérhæfing og klasar', link: '/nalganir/serhaefing_og_klasar' }           
         ]
       },
       {
