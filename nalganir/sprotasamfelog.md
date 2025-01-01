@@ -4,6 +4,8 @@ outline: deep
 
 # Sprotasamfélög
 
+Nálgunin *sprotasamfélög* leggur áherslu á lárétt tengsl milli frumkvöðlana sjálfra. Að það kerfi sem nýsköpun spretti upp úr sé netverk, sem ekki sé stýrt að ofan. Mestu skipti máli að frumkvöðlarnir sjálfir séu leiðandi, og samskipti þeirra á milli.
+
 > Ég er að leita að fólki í mínu nærumhverfi sem komplimentar mig og hefur svona skörun við mig. Það mætti vera einhver vettvangur þar sem ég gæti séð á auðveldan hátt hverjir eru að vinna í einhverjum hlutum, sem tengjast í mínu tilfelli sjó og hafa áhuga á að vinna með þörunga ...
 
 > Eitthvað svona platform þar sem þú gætir á litlum tíma vitað soldið hvað er, ég held að það sem skiptir gríðarlegu máli er samstarf.
