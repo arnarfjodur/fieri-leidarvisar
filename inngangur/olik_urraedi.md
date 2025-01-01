@@ -57,7 +57,7 @@ Hvaða áhrif hefur þessi aðferð við að fjármagna nýsköpun á það hver
 
 Ef aðrir geirar eru valdir til að styrkja, s.s. Máltæknisjóður eða Markáætlun um tungu og tækni, þá dettur hlutfall styrkja til landsbyggðina niður í mjög lítið.
 
-Með því að velja geira sem eru ríkjandi út á landi er því augljóslega hægt að beina fjármunum frekar þangað. Annað mál er hvort það sé æskileg aðferð. Með því að styðja sérstaklega matvæli og afurðir landbúnaðar og sjávarútvegs má segja að verið sé að ýta undir ákveðna sérhæfingu landsbyggðana. Hugmyndafræðin um [snjalla sérhæfingu](/nalganir/snjoll_serhaefing) (e. smart specialisation) leggur áherslu á að lönd og landsvæði einbeiti sér að fáum útvöldum forgangsmálum til að fjárfesta í, sem byggir á styrkleikum svæðisins, en reyni ekki að vera góð á öllum sviðum.
+Með því að velja geira sem eru ríkjandi út á landi er því augljóslega hægt að beina fjármunum frekar þangað. Annað mál er hvort það sé æskileg aðferð. Með því að styðja sérstaklega matvæli og afurðir landbúnaðar og sjávarútvegs má segja að verið sé að ýta undir ákveðna sérhæfingu landsbyggðana. Hugmyndafræðin um [snjalla sérhæfingu](/nalganir/serhaefing_og_klasar) (e. smart specialisation) leggur áherslu á að lönd og landsvæði einbeiti sér að fáum útvöldum forgangsmálum til að fjárfesta í, sem byggir á styrkleikum svæðisins, en reyni ekki að vera góð á öllum sviðum.
 
 Á móti þessu sjónarmiði mætti tefla öðru. Að með því að styrkja sérstaklega matvæla og sjávarútvegstengda starfsemi úti á landi sé verið að hvetja samfélög þar til að halda sér í hjólförum fortíðar og viðjum vanans. Það sem dreifðar byggðir þurfi einmitt á að halda sé fjölbreyttari starfsemi og annars konar hæfni, ekki hafa öll eggin í sömu gömlu körfunni.
 
